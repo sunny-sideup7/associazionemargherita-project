@@ -1,0 +1,628 @@
+
+<!DOCTYPE html>
+<html class="" lang="it-IT" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Privati - Associazione Margherita Odv</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.associazionemargherita.org/index.php/privati/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Privati - Associazione Margherita Odv" />
+<meta property="og:url" content="https://www.associazionemargherita.org/index.php/privati/" />
+<meta property="og:site_name" content="Associazione Margherita Odv" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Privati - Associazione Margherita Odv" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.associazionemargherita.org\/","name":"Associazione Margherita Odv","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.associazionemargherita.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Associazione Margherita Odv &raquo; Feed" href="https://www.associazionemargherita.org/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Associazione Margherita Odv &raquo; Feed dei commenti" href="https://www.associazionemargherita.org/index.php/comments/feed/" />
+			<link rel="shortcut icon" href="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png" type="image/x-icon" />
+					<!-- For iPhone -->
+			<link rel="apple-touch-icon" href="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png">
+					<!-- For iPhone Retina display -->
+			<link rel="apple-touch-icon" sizes="114x114" href="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png">
+					<!-- For iPad -->
+			<link rel="apple-touch-icon" sizes="72x72" href="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png">
+		
+		<meta property="og:title" content="Privati"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://www.associazionemargherita.org/index.php/privati/"/>
+		<meta property="og:site_name" content="Associazione Margherita Odv"/>
+		<meta property="og:description" content="Anche una piccola donazione, sommata a tante altre, può aiutarci a fare grandi cose.
+In occasione di compleanni, cresime, comunioni, battesimi e matrimoni, l&#039;Associazione può realizzare pergamene/biglietti di ringraziamento personalizzati con testo, foto e decorazioni per chi desideri fare una donazione e lasciare ai propri invitati un ricordo speciale, di un giorno felice."/>
+
+									<meta property="og:image" content="https://www.associazionemargherita.org/wp-content/uploads/2020/04/AM_marchio_OdV.jpg"/>
+							<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.associazionemargherita.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.associazionemargherita.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.associazionemargherita.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.associazionemargherita.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.associazionemargherita.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='avada-stylesheet-css'  href='https://www.associazionemargherita.org/wp-content/themes/Avada3/assets/css/style.min.css?ver=5.1.5' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='https://www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/fonts/fontawesome/font-awesome.css?ver=5.1.5' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='https://www.associazionemargherita.org/wp-content/themes/Avada3/assets/css/ie.css?ver=5.1.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='https://www.associazionemargherita.org/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fusion-dynamic-css-css'  href='//www.associazionemargherita.org/wp-content/uploads/fusion-styles/fusion-105.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avada_google_fonts-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%7CComfortaa%3A700%2C400&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
+var log_object = {"ajax_url":"https:\/\/www.associazionemargherita.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.7'></script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.associazionemargherita.org/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.associazionemargherita.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.associazionemargherita.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.4" />
+<link rel='shortlink' href='https://www.associazionemargherita.org/?p=105' />
+<link rel="alternate" type="application/json+oembed" href="https://www.associazionemargherita.org/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.associazionemargherita.org%2Findex.php%2Fprivati%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.associazionemargherita.org/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.associazionemargherita.org%2Findex.php%2Fprivati%2F&#038;format=xml" />
+    <style type="text/css">
+        .paypal_donation_button:before,
+        .paypal_donation_button:after {
+            content: " ";
+            display: table;
+        }
+        .paypal_donation_button:after {
+            clear: both;
+        }
+        .paypal_donation_button {
+            max-width: 147px;
+            margin: 0 auto;
+            padding: 0;
+            display: block;
+        }
+    </style>
+    		<script type="text/javascript">
+			var cli_flush_cache=1;
+		</script>
+		<meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Puoi aggiungere qui il tuo codice CSS.
+
+Per maggiori informazioni consulta la documentazione (fai clic sull'icona con il punto interrogativo qui sopra).
+*/
+
+
+.fusion-logo img {
+    width: auto;
+    max-width: 238px;
+}		</style>
+	
+		
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	</head>
+
+<body class="page-template-default page page-id-105 fusion-image-hovers fusion-body no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop mobile-logo-pos-left layout-wide-mode fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-show-pagination-text">
+				<div id="wrapper" class="">
+		<div id="home" style="position:relative;top:1px;"></div>
+				
+		
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v3 fusion-logo-left fusion-sticky-menu- fusion-sticky-logo-1 fusion-mobile-logo-1 fusion-mobile-menu-design-modern ">
+					
+<div class="fusion-secondary-header">
+	<div class="fusion-row">
+					<div class="fusion-alignleft">
+			<div class="fusion-contact-info"> CF 91257650373 <span class="fusion-header-separator">|</span><a href="/cdn-cgi/l/email-protection#0c652a2f3d3d3c372a2f3d3c3e37632a2f3a38372a2f353b377f2a2f3d3d3937632a2f353537652a2f353b3776652a2f3d3d3d372a2f3d3d3c372a2f3d3c3d372a2f3d3c35376d7e6b64692a2f3d3d38372a2f3d3c3937782a2f353b372a2f383a372a2f3d3d3d372a2f3d3d38376b">i&#110;&#102;o&#64;&#97;s&#115;o&#99;i&#97;zi&#111;&#110;&#101;&#109;arghe&#114;&#105;t&#97;&#46;&#111;&#114;g</a></div>			</div>
+							<div class="fusion-alignright">
+			<nav class="fusion-secondary-menu" role="navigation" aria-label="Secondary Menu"><ul role="menubar" id="menu-alto-dona" class="menu"><li role="menuitem"  id="menu-item-86"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"  ><a  href="https://www.associazionemargherita.org/index.php/donazione-online/"><span class="menu-text">DONA ORA <i class="fa fa-heart"></i></span></a></li></ul></nav><div class="fusion-mobile-nav-holder"></div>			</div>
+			</div>
+</div>
+<div class="fusion-header-sticky-height"></div>
+<div class="fusion-header">
+	<div class="fusion-row">
+		<div class="fusion-logo" data-margin-top="31px" data-margin-bottom="31px" data-margin-left="0px" data-margin-right="0px">
+				<a class="fusion-logo-link" href="https://www.associazionemargherita.org/">
+						<img src="//www.associazionemargherita.org/wp-content/uploads/2020/04/AM_marchio_OdV.jpg" width="380" height="157" alt="Associazione Margherita Odv Logo" class="fusion-logo-1x fusion-standard-logo" />
+
+															<img src="//www.associazionemargherita.org/wp-content/uploads/2020/04/AM_marchio_OdV.jpg" width="380" height="157" alt="Associazione Margherita Odv Retina Logo" style="max-height: 157px; height: auto;" class="fusion-standard-logo fusion-logo-2x" />
+			
+			<!-- mobile logo -->
+											<img src="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png" width="50" height="50" alt="Associazione Margherita Odv Mobile Logo" class="fusion-logo-1x fusion-mobile-logo-1x" />
+
+									<img src="//www.associazionemargherita.org/wp-content/uploads/2017/03/favicon.png" width="50" height="50" alt="Associazione Margherita Odv Mobile Retina Logo" class="fusion-logo-2x fusion-mobile-logo-2x" />
+							
+			<!-- sticky header logo -->
+											<img src="//www.associazionemargherita.org/wp-content/uploads/2020/04/AM_marchio_OdV.jpg" width="380" height="157" alt="Associazione Margherita Odv Sticky Logo" class="fusion-logo-1x fusion-sticky-logo-1x" />
+
+														<img src="//www.associazionemargherita.org/wp-content/uploads/2020/04/AM_marchio_OdV.jpg" width="380" height="157" alt="Associazione Margherita Odv Sticky Logo Retina" style="max-height: 157px; height: auto;" class="fusion-logo-2x fusion-sticky-logo-2x" />
+									</a>
+		</div>		<nav class="fusion-main-menu" aria-label="Main Menu"><ul role="menubar" id="menu-menu" class="fusion-menu"><li role="menuitem"  id="menu-item-28"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28"  ><a  href="https://www.associazionemargherita.org/"><span class="menu-text">Home</span></a></li><li role="menuitem"  id="menu-item-54"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54 fusion-dropdown-menu"  ><a  href="#"><span class="menu-text">Chi siamo</span></a><ul role="menu" class="sub-menu"><li role="menuitem"  id="menu-item-27"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/la-storia/"><span class=""><span class="">La storia</span></a></li><li role="menuitem"  id="menu-item-51"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/consiglio-direttivo-e-fondatori/"><span class=""><span class="">Consiglio direttivo e fondatori</span></a></li><li role="menuitem"  id="menu-item-63"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/in-ricordo-di-margherita/"><span class=""><span class="">In ricordo di Margherita</span></a></li><li role="menuitem"  id="menu-item-53"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/lo-statuto/"><span class=""><span class="">Lo statuto</span></a></li></ul></li><li role="menuitem"  id="menu-item-67"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-67 fusion-dropdown-menu"  ><a  href="#"><span class="menu-text">Cosa facciamo</span></a><ul role="menu" class="sub-menu"><li role="menuitem"  id="menu-item-66"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/mission/"><span class=""><span class="">Mission</span></a></li><li role="menuitem"  id="menu-item-83"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/progetti-realizzati/"><span class=""><span class="">Progetti realizzati</span></a></li></ul></li><li role="menuitem"  id="menu-item-25"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"  ><a  href="https://www.associazionemargherita.org/index.php/progetti-attuali/"><span class="menu-text">Progetti attuali</span></a></li><li role="menuitem"  id="menu-item-102"  class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-102 fusion-dropdown-menu"  ><a  href="#"><span class="menu-text">Come aiutarci</span></a><ul role="menu" class="sub-menu"><li role="menuitem"  id="menu-item-101"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/5x1000-la-piu-bella-dichiarazione-damore-che-puoi-fare/"><span class=""><span class="">5X1000</span></a></li><li role="menuitem"  id="menu-item-116"  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-105 current_page_item menu-item-116 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/privati/"><span class=""><span class="">Privati</span></a></li><li role="menuitem"  id="menu-item-120"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/donazioni-aziendali/"><span class=""><span class="">Donazioni aziendali</span></a></li><li role="menuitem"  id="menu-item-130"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/donazione-online/"><span class=""><span class="">Donazione online</span></a></li><li role="menuitem"  id="menu-item-127"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/volontariato/"><span class=""><span class="">Volontariato</span></a></li><li role="menuitem"  id="menu-item-126"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/benefici-fiscali/"><span class=""><span class="">Benefici fiscali</span></a></li><li role="menuitem"  id="menu-item-381"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/come-aiutarci/pergamene-solidali/"><span class=""><span class="">Pergamene solidali</span></a></li></ul></li><li role="menuitem"  id="menu-item-145"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-145 fusion-dropdown-menu"  ><a  href="#"><span class="menu-text">News &#038; Eventi</span></a><ul role="menu" class="sub-menu"><li role="menuitem"  id="menu-item-480"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/news/"><span class=""><span class="">News</span></a></li><li role="menuitem"  id="menu-item-139"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139 fusion-dropdown-submenu"  ><a  href="https://associazionemargherita.wordpress.com/"><span class=""><span class="">Storico News</span></a></li><li role="menuitem"  id="menu-item-23"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 fusion-dropdown-submenu"  ><a  href="https://www.associazionemargherita.org/index.php/news-eventi/"><span class=""><span class="">Eventi</span></a></li></ul></li><li role="menuitem"  id="menu-item-22"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"  ><a  href="https://www.associazionemargherita.org/index.php/contatti/"><span class="menu-text">Contatti</span></a></li></ul></nav>			<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars" aria-label="Toggle mobile menu"></a>
+		
+		
+			</div>
+
+
+<nav class="fusion-mobile-nav-holder"></nav>
+
+	</div>
+</div>
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+					
+		<div id="sliders-container">
+					</div>
+						
+					<div class="fusion-page-title-bar fusion-page-title-bar-breadcrumbs fusion-page-title-bar-left">
+	<div class="fusion-page-title-row">
+		<div class="fusion-page-title-wrapper">
+			<div class="fusion-page-title-captions">
+
+																			<h1 class="entry-title">Privati</h1>
+
+									
+				
+			</div>
+
+												<div class="fusion-page-title-secondary">
+						<div class="fusion-breadcrumbs"><span><a href="https://www.associazionemargherita.org"><span>Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Privati</span></div>					</div>
+							
+		</div>
+	</div>
+</div>
+		
+		
+		
+						<div id="main" role="main" class="clearfix " style="">
+			<div class="fusion-row" style="">
+<div id="content" style="width: 100%;">
+			<div id="post-105" class="post-105 page type-page status-publish hentry">
+			
+			<span class="entry-title rich-snippet-hidden">
+			Privati		</span>
+	
+			<span class="vcard rich-snippet-hidden">
+			<span class="fn">
+				<a href="https://www.associazionemargherita.org/index.php/author/daniele/" title="Articoli scritti da: daniele" rel="author">daniele</a>			</span>
+		</span>
+	
+			<span class="updated rich-snippet-hidden">
+			2021-10-14T07:17:16+00:00		</span>
+	
+																			
+			<div class="post-content">
+				<div  class="fusion-fullwidth fullwidth-box fusion-blend-mode nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:20px;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><h2>Anche una piccola donazione, sommata a tante altre, può aiutarci a fare grandi cose.</h2>
+<p class="p1"><span class="s1">In occasione di compleanni, cresime, comunioni, battesimi e matrimoni, l&#8217;Associazione può realizzare pergamene/biglietti di ringraziamento personalizzati con testo, foto e decorazioni per chi desideri fare una donazione e lasciare ai propri invitati un ricordo speciale, di un giorno felice.</span></p>
+<p class="p2"><span class="s1">In questo modo la gioia di un evento indimenticabile sarà completata dalla consapevolezza di avere regalato un sorriso anche a tanti bambini meno fortunati</span></p>
+<style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-105-1"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-105-1" data-target="#bcaa246216172fa84" href="#bcaa246216172fa84"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">Donazione tramite versamento su CONTO CORRENTE BANCARIO</div></a></h4></div><div id="bcaa246216172fa84" class="panel-collapse collapse in"><div class="panel-body toggle-content">
+<p>Puoi effettuare un bonifico direttamente dalla filiale della tua banca sul C/C Bancario n. 10620 presso Banca Popolare di Milano intestato ad Associazione Margherita Onlus codice iban: <strong>IT78Y0503402404000000010620</strong></p>
+<p>Nella causale è possibile specificare il motivo della donazione, ad esempio:</p>
+<ul>
+<li>cerimonie come &#8220;battesimo di&#8230; comunione di&#8230; matrimonio di&#8230; Laurea di&#8230;&#8221;</li>
+<li>in memoria di &#8220;nome della persona defunta&#8221;</li>
+<li>puoi anche scegliere di dedicare la tua donazione al sostegno di un progetto specifico, riportandone il nome.</li>
+</ul>
+<p><b>Importante:</b> verifica che i tuoi dati e l&#8217;eventuale causale del versamento siano stati correttamente trascritti: potremo inviarti un ringraziamento e il riepilogo della tua offerta.</p>
+<p>Tutte le donazioni sono <b>deducibili</b> allegando alla dichiarazione dei redditi la <b>distinta di versamento</b>.</p>
+</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-105-1" data-target="#d3a3752c62c672606" href="#d3a3752c62c672606"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">Donazione tramite app. PAYPAL</div></a></h4></div><div id="d3a3752c62c672606" class="panel-collapse collapse "><div class="panel-body toggle-content">
+<p>Puoi effettuare la donazione tramite la app. PAYPAL direttamente dal tuo cellulare, in modo immediato, intuitivo e sicuro.</p>
+<p>È sufficiente digitare l&#8217;indirizzo e-mail dell&#8217;associazione <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="86efe8e0e9c6e7f5f5e9e5efe7fcefe9e8e3ebe7f4e1eee3f4eff2e7a8e9f4e1">[email&#160;protected]</a> e la cifra che desideri donare.</p>
+<p><b>Informativa sulla privacy ai sensi del D. Lgs. 196/03</b>: I dati saranno trattati da Associazione Margherita Onlus &#8211; titolare del trattamento &#8211; Vicolo Del Falcone 20, 40123 Bologna &#8211; per le operazioni connesse alla donazione, per informare su iniziative e progetti realizzati anche grazie al contributo erogato e per inviare materiale informativo riservati ai sostenitori, per campagne di raccolta fondi. I dati saranno trattati, manualmente ed elettronicamente con metodologie di analisi statistica, dalla nostra associazione; non saranno comunicati né diffusi né trasferiti a terzi. Ai sensi dell&#8217;art. 7, d. lgs 196/2003, si possono esercitare i relativi diritti fra cui consultare, modificare, cancellare i dati od opporsi al loro trattamento per fini di invio di materiale informativo rivolgendosi al titolare al suddetto indirizzo.</p>
+</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-105-1" data-target="#bada7619d68998e6c" href="#bada7619d68998e6c"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">Lascito testamentario</div></a></h4></div><div id="bada7619d68998e6c" class="panel-collapse collapse "><div class="panel-body toggle-content">
+<p><b>Ci sosteniamo esclusivamente con l’aiuto dei nostri donatori. Per questo il tuo lascito è prezioso.</b></p>
+<p>Mediante il lascito testamentario è possibile affidare anche una piccola parte dei propri beni ad Associazione Margherita Onlus. Così, donazioni in denaro, titoli, azioni, fondi di investimento, beni mobili<b> </b>(opere d’arte, gioielli, arredi), beni immobili<b> (</b>appartamento, un terreno, un fabbricato), polizze assicurative e altri beni si trasformano in un concreto sostegno a favore dei bambini.</p>
+<p>Un testamento può essere <b>scritto in qualsiasi momento</b> e può essere scritto di proprio pugno (olografo) oppure redatto da un notaio alla presenza di testimoni(pubblico). <b>È sempre possibile modificarlo,</b> annullarlo o sostituirlo, e produce effetti solo al momento dell’apertura della successione.</p>
+</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-105-1" data-target="#95fa599bc8c0d96c9" href="#95fa599bc8c0d96c9"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">Polizza vita</div></a></h4></div><div id="95fa599bc8c0d96c9" class="panel-collapse collapse "><div class="panel-body toggle-content">
+<p><b>Più semplice di quanto pensi, molto più importante di quanto immagini.</b></p>
+<p>Il titolare di una polizza vita può scegliere liberamente il beneficiario senza alcun vincolo nei confronti degli eredi. La polizza vita infatti non fa parte del patrimonio ereditario. Il titolare della polizza può decidere di nominare Associazione Margherita come beneficiario sia al momento della sottoscrizione della stessa, che con una dichiarazione successiva o nel testamento. Le prestazioni in caso di sinistri nelle polizza vita ad Associazione Margherita, così come i lasciti e le donazioni in vita, sono totalmente esenti da tassazione (art. 3 D.Lgs 346/1990 modificato dalla L. 383/2001). Questo vuol dire che il loro valore viene interamente impiegato nei progetti.</p>
+</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-105-1" data-target="#4e98c5d3c755d3979" href="#4e98c5d3c755d3979"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">Donazione in memoria</div></a></h4></div><div id="4e98c5d3c755d3979" class="panel-collapse collapse "><div class="panel-body toggle-content">
+<p>Scegli di fare una <b>donazione in memoria</b> ad Associazione Margherita per ricordare una persona scomparsa che è stata importante per te, per la tua famiglia, per i tuoi amici o per la tua azienda. Con questo gesto contribuirai a sostenere i nostri progetti e per farlo è molto semplice. Puoi scegliere la modalità di donazione che preferisci:</p>
+<ul>
+<li>Online, attraverso il sito, cliccando sul bottone DONA ORA presente in testa e al piede di ogni pagina.</li>
+<li>Con bonifico bancario sul C/C Bancario n. 10620 presso Banca Popolare di Milano intestato ad Associazione Margherita Onlus codice iban: <strong>IT78Y0503402404000000010620</strong></li>
+<li>Con la app PAYPAL</li>
+</ul>
+<p>Se lo desideri, l&#8217;Associazione Margherita invierà una lettera che segnala il tuo gesto ai familiari della persona che hai voluto ricordare. Puoi richiedere la lettera via e-mail, scrivendo a <a href="/cdn-cgi/l/email-protection#ed84838b82ad8c9e9e828e848c9784828388808c9f8a85889f84998cc3829f8a" target="_top"><span class="__cf_email__" data-cfemail="fb92959d94bb9a88889498929a819294959e969a899c939e89928f9ad594899c">[email&#160;protected]</span></a></p>
+<p><b>Le donazioni in memoria sono fiscalmente deducibili</b>.  Puoi richiedere certificazione dell’avvenuta donazione scrivendo a <a href="/cdn-cgi/l/email-protection#01686f676e416072726e6268607b686e6f646c6073666964736875602f6e7366" target="_top"><span class="__cf_email__" data-cfemail="6f060109002f0e1c1c000c060e150600010a020e1d08070a1d061b0e41001d08">[email&#160;protected]</span></a></p>
+</div></div></div></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#fac200;border-top-width:1px;margin-left: auto;margin-right: auto;margin-top:50px;margin-bottom:50px;"></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div>
+							</div>
+																					</div>
+		</div>
+					
+				</div>  <!-- fusion-row -->
+			</div>  <!-- #main -->
+			
+			
+			
+			
+										
+				<div class="fusion-footer">
+
+																
+						<footer role="contentinfo" class="fusion-footer-widget-area fusion-widget-area">
+							<div class="fusion-row">
+								<div class="fusion-columns fusion-columns-1 fusion-widget-area">
+									
+																																							<div class="fusion-column fusion-column-last col-lg-12 col-md-12 col-sm-12">
+												<div id="text-2" class="fusion-footer-widget-column widget widget_text">			<div class="textwidget"><p>Puoi effettuare la tua donazione on line con carta di credito in modo assolutamente sicuro e riservato direttamente da qui. Dona ora ed entra a far parte della nostra comunità! Potrai così sostenerci e rimanere costantemente aggiornato sui nostri progetti, le nostre attività e le nostre iniziative.</p>
+<div class="fusion-button-wrapper">
+<style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 {border-width:0px;border-color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{background: #f44336;}.fusion-button.button-1:hover,.button-1:focus,.fusion-button.button-1:active{background: #d83a2f;}.fusion-button.button-1{width:100%;}</style>
+<p><a class="fusion-button button-flat fusion-button-round button-xlarge button-custom button-1" target="_blank" rel="noopener noreferrer" href="https://www.associazionemargherita.org/index.php/donazione-online/"><span class="fusion-button-text">DONA ORA</span><i class="fa fa-heart button-icon-right"></i></a></div>
+<h6>Informativa sulla privacy ai sensi del D. Lgs. 196/03: I dati saranno trattati da Associazione Margherita Onlus - titolare del trattamento - Vicolo del Falcone 20, 40124 Bologna - per le operazioni connesse alla donazione, per informare su iniziative e progetti realizzati anche grazie al contributo erogato e per inviare materiale informativo riservati ai sostenitori, per campagne di raccolta fondi. I dati saranno trattati, manualmente ed elettronicamente con metodologie di analisi statistica, dalla nostra associazione; non saranno comunicati né diffusi né trasferiti a terzi. Ai sensi dell'art. 7, d. lgs 196/2003, si possono esercitare i relativi diritti fra cui consultare, modificare, cancellare i dati od opporsi al loro trattamento per fini di invio di materiale informativo rivolgendosi al titolare al suddetto indirizzo.</h6>
+</div>
+		<div style="clear:both;"></div></div><div id="text-3" class="fusion-footer-widget-column widget widget_text">			<div class="textwidget"><center>
+<span style="font-size:20px">SEGUICI SUI SOCIAL</span><div  class="fusion-fullwidth fullwidth-box fusion-blend-mode nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:0px;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-social-links"><div class="fusion-social-networks"><div class="fusion-social-networks-wrapper"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#FFFFFF;" aria-label="fusion-facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/AssociazioneMargheritaOnlus" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-instagram fusion-icon-instagram" style="color:#FFFFFF;" aria-label="fusion-instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/associazionemargherita/" data-placement="top" data-title="Instagram" data-toggle="tooltip" title="Instagram"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusion-icon-youtube" style="color:#FFFFFF;" aria-label="fusion-youtube" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCuf8O3nvdSTkv2FM4ho4LKQ" data-placement="top" data-title="YouTube" data-toggle="tooltip" title="YouTube"></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div>
+
+</center></div>
+		<div style="clear:both;"></div></div>																																				</div>
+																																																																																																																		
+									<div class="fusion-clearfix"></div>
+								</div> <!-- fusion-columns -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- fusion-footer-widget-area -->
+					
+																
+						<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
+							<div class="fusion-row">
+								<div class="fusion-copyright-content">
+
+									<div class="fusion-copyright-notice">
+		<div>
+				© 2020 Associazione Margherita OdV | Tutti i diritti riservati   | <i class="fa fa-map-marker"></i> Vicolo del Falcone, 20 - 40124 Bologna | <i class="fa fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#3d54535b527d5c4e4e525e545c4754525358505c4f5a55584f54495c13524f5a"><span class="__cf_email__" data-cfemail="e881868e87a8899b9b878b8189928187868d85899a8f808d9a819c89c6879a8f">[email&#160;protected]</span></a> | C.F. 91257650373	</div>
+</div>
+			<div class="fusion-social-links-footer">
+							</div>
+		
+								</div> <!-- fusion-fusion-copyright-content -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- #footer -->
+														</div> <!-- fusion-footer -->
+					</div> <!-- wrapper -->
+
+								<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<div id="cookie-law-info-bar"><span>Questo sito utilizza cookie, anche di terze parti, per migliorare servizi ed esperienza degli utenti.<br />
+Per maggiori informazioni o negare il consenso, leggi l'informativa estesa.  <a role='button' tabindex='0' class="cli_settings_button" style="margin:5px 20px 5px 20px;" >Impostazioni Cookie</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block;  margin:5px; ">ACCETTO</a> <a href='https://www.associazionemargherita.org/index.php/privacy/' id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  style="display:inline-block;" >Maggiori Informazioni</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button type="button" class="cli-modal-close" id="cliModalClose">
+        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+        <span class="wt-cli-sr-only">Chiudi</span>
+      </button>
+      <div class="cli-modal-body">
+        <div class="cli-container-fluid cli-tab-container">
+    <div class="cli-row">
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-privacy-overview">
+                <h4>Privacy</h4>                                   
+                <div class="cli-privacy-content">
+                    <div class="cli-privacy-content-text">Questo sito Web utilizza i cookie per migliorare la tua esperienza durante la navigazione nel sito Web. Di questi cookie, i cookie classificati come necessari vengono memorizzati nel browser in quanto sono essenziali per il funzionamento delle funzionalità di base del sito Web. Utilizziamo anche cookie di terze parti che ci aiutano ad analizzare e comprendere come si utilizza questo sito Web. Questi cookie verranno memorizzati nel tuo browser solo con il tuo consenso. Hai anche la possibilità di disattivare questi cookie. La disattivazione di alcuni di questi cookie può influire sulla tua esperienza di navigazione.</div>
+                </div>
+                <a class="cli-privacy-readmore" data-readmore-text="Mostra altro" data-readless-text="Mostra meno"></a>            </div>
+        </div>  
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+              
+                            <div class="cli-tab-section">
+                    <div class="cli-tab-header">
+                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" >
+                            Necessario 
+                        </a>
+                    
+                    <span class="cli-necessary-caption">Sempre attivato</span>                     </div>
+                    <div class="cli-tab-content">
+                        <div class="cli-tab-pane cli-fade" data-id="necessary">
+                            <p>I cookie necessari sono assolutamente essenziali per il corretto funzionamento del sito Web. Questa categoria include solo i cookie che garantiscono funzionalità di base e caratteristiche di sicurezza del sito Web. Questi cookie non memorizzano alcuna informazione personale.</p>
+                        </div>
+                    </div>
+                </div>
+              
+                            <div class="cli-tab-section">
+                    <div class="cli-tab-header">
+                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab" >
+                            Non necessario 
+                        </a>
+                    <div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked />
+                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Attivato" data-cli-disable="Disattivato"><span class="wt-cli-sr-only">Non necessario</span></label>
+                    </div>                    </div>
+                    <div class="cli-tab-content">
+                        <div class="cli-tab-pane cli-fade" data-id="non-necessary">
+                            <p>Qualsiasi cookie che potrebbe non essere particolarmente necessario per il funzionamento del sito Web e viene utilizzato specificamente per raccogliere dati personali dell'utente tramite analisi, pubblicità, altri contenuti incorporati sono definiti come cookie non necessari. È obbligatorio ottenere il consenso dell'utente prima di eseguire questi cookie sul tuo sito Web.</p>
+                        </div>
+                    </div>
+                </div>
+                       
+        </div>
+    </div> 
+</div> 
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  /* <![CDATA[ */
+  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_2_hidebar":false,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"}';
+  /* ]]> */
+</script><script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<!--[if IE 9]>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-ie9.js?ver=1'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-includes/js/comment-reply.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoGeneralVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionLightboxVideoVars = {"lightbox_video_width":"1280","lightbox_video_height":"720"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionLightboxVars = {"status_lightbox":"1","lightbox_gallery":"1","lightbox_skin":"metro-white","lightbox_title":"1","lightbox_arrows":"1","lightbox_slideshow_speed":"5000","lightbox_autoplay":"","lightbox_opacity":"0.9","lightbox_desc":"1","lightbox_social":"1","lightbox_deeplinking":"1","lightbox_path":"vertical","lightbox_post_images":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/imagesLoaded.js?ver=3.1.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaPortfolioVars = {"lightbox_behavior":"all","isotope_type":"masonry","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-core/js/min/avada-portfolio.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/isotope.js?ver=3.0.0'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-core/js/min/avada-faqs.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionAnimationsVars = {"disable_mobile_animate_css":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countdown.js?ver=1.0'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-countdown.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.easyPieChart.js?ver=2.1.7'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.appear.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-circle.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.fade.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoBgVars = {"status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionContainerVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionBgImageVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionEqualHeightVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-flip-boxes.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionMapsVars = {"admin_ajax":"https:\/\/www.associazionemargherita.org\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"5068147d1c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.fusion_maps.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-google-map.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-progress.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-content-boxes.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionCountersBox = {"counter_box_speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-events.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.transition.js?ver=3.3.6'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.tab.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTabVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-tabs.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTestimonialVars = {"testimonials_speed":"4000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-testimonials.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.collapse.js?ver=3.1.1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-toggles.js?ver=1'></script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-includes/js/mediaelement/froogaloop.min.js?ver=2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoVars = {"status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/bootstrap.popover.js?ver=3.3.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-alert.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionCarouselVars = {"related_posts_speed":"2500","carousel_speed":"2500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-carousel.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionFlexSliderVars = {"status_vimeo":"1","page_smoothHeight":"false","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-popover.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionBlogVars = {"infinite_blog_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","lightbox_behavior":"all","blog_pagination_type":"Pagination","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-blog.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-button.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionIe1011Vars = {"form_bg_color":"#ffffff"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-ie1011.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTypographyVars = {"site_width":"1100px","typography_sensitivity":"0.6","typography_factor":"1.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaCommentVars = {"title_style_type":"double","title_margin_top":"0px","title_margin_bottom":"31px"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-comments.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-general-footer.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-quantity.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaHeaderVars = {"header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"800","header_sticky_mobile":"0","header_sticky_tablet":"0","mobile_menu_design":"modern","sticky_header_shrinkage":"1","nav_height":"150","nav_highlight_border":"0","logo_margin_top":"31px","logo_margin_bottom":"31px","layout_mode":"wide","header_padding_top":"0px","header_padding_bottom":"0px","offset_scroll":"full"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-header.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-scrollspy.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-select.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-sidebars.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-tabs-widget.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaMenuVars = {"header_position":"Top","logo_alignment":"Left","header_sticky":"1","side_header_break_point":"800","mobile_menu_design":"modern","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","submenu_slideout":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-menu.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/library/jquery.toTop.js?ver=1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaToTopVars = {"status_totop_mobile":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-to-top.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-drop-down.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaRevVars = {"avada_rev_styles":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-rev-styles.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-contact-form-7.js?ver=5.1.5'></script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/library/jquery.elasticslider.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaElasticSliderVars = {"tfes_autoplay":"1","tfes_animation":"sides","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/themes/Avada3/assets/min/js/general/avada-elastic-slider.js?ver=5.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaFusionSliderVars = {"side_header_break_point":"800","slider_position":"below","header_transparency":"0","header_position":"Top","content_break_point":"800","status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.associazionemargherita.org/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js?ver=1'></script>
+<script type='text/javascript' src='https://www.associazionemargherita.org/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
+
+		ciao	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"111c213582ee41deb87725a566951a21","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
