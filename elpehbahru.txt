@@ -1,0 +1,1872 @@
+<!DOCTYPE html>
+<html lang="id" data-sentry-element="Html" data-sentry-component="Document" data-sentry-source-file="_document.tsx" data-mantine-color-scheme="light"><head data-sentry-element="Head" data-sentry-source-file="_document.tsx">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="amphtml" href="https://prg007-gacordanterbaru.pages.dev/">
+    <link rel="preload" as="image" href="https://static.gramedia.net/_next/static/media/offline.3d0b170e.png" />
+    <link rel="preconnect" href="https://api-service.gramedia.com" />
+    <link rel="dns-prefetch" href="https://api-service.gramedia.com" />
+    <link rel="preconnect" href="https://cdn.gramedia.com" />
+    <link rel="dns-prefetch" href="https://cdn.gramedia.com" />
+    <link rel="preconnect" href="https://static.gramedia.net" />
+    <link rel="dns-prefetch" href="https://static.gramedia.net" />
+    <link rel="preconnect" href="https://image.gramedia.net" />
+    <link rel="dns-prefetch" href="https://image.gramedia.net" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://analytics.google.com" />
+    <link rel="dns-prefetch" href="https://analytics.google.com" />
+    <link rel="preconnect" href="https://www.facebook.com" />
+    <link rel="dns-prefetch" href="https://www.facebook.com" />
+    <link rel="preconnect" href="https://connect.facebook.net" />
+    <link rel="dns-prefetch" href="https://connect.facebook.net" />
+    <title>PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia</title>
+    <meta name="title" content="PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia" data-sentry-element="meta"
+        data-sentry-source-file="HeadMetaData.tsx" />
+    <meta name="description"
+        content="PRG007 sudah dikenal sebagai jawara link slot gacor anti Nawala yang memiliki kestabilan sistem permainan dengan variasi promosi dan event terbaru di Asia."
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta name="keywords"
+        content="prg007, prg 777, prg007 login, slot gacor, link slot, slot"
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="og:url" content="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" data-sentry-element="meta"
+        data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="og:image" itemProp="image"
+        content="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="og:title" content="PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia"
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="og:description"
+        content="PRG007 sudah dikenal sebagai jawara link slot gacor anti Nawala yang memiliki kestabilan sistem permainan dengan variasi promosi dan event terbaru di Asia."
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="og:type" content="books.book" data-sentry-element="meta"
+        data-sentry-source-file="HeadMetaData.tsx" />
+    <meta name="twitter:card" content="product" data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="twitter:url" content="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" data-sentry-element="meta"
+        data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="twitter:site" content="@prg007" data-sentry-element="meta"
+        data-sentry-source-file="HeadMetaData.tsx" />
+    <meta name="twitter:title" content="PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia"
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta name="twitter:image"
+        content="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <meta property="twitter:description"
+        content="PRG007 sudah dikenal sebagai jawara link slot gacor anti Nawala yang memiliki kestabilan sistem permainan dengan variasi promosi dan event terbaru di Asia."
+        data-sentry-element="meta" data-sentry-source-file="HeadMetaData.tsx" />
+    <link rel="icon" href="https://imagizer.imageshack.com/v2/32x32q50/923/BgY502.png" />
+    <link rel="canonical" href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" />
+    <meta property="books:author" content="Slot Gacor" data-sentry-element="meta"
+        data-sentry-source-file="[productDetailSlug].tsx" />
+    <meta property="og:site_name" content="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" data-sentry-element="meta"
+        data-sentry-source-file="[productDetailSlug].tsx" />
+    <meta property="books:isbn" content="" data-sentry-element="meta"
+        data-sentry-source-file="[productDetailSlug].tsx" />
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "WebSite",
+                  "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#website",
+                  "url": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/",
+                  "name": "PRG007"
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#webpage",
+                  "url": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/",
+                  "name": "PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia",
+                  "description": "PRG007 sudah dikenal sebagai jawara link slot gacor anti Nawala yang memiliki kestabilan sistem permainan dengan variasi promosi dan event terbaru di Asia.",
+                  "inLanguage": "id-ID",
+                  "isPartOf": {
+                    "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#breadcrumb"
+                  }
+                },
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#breadcrumb",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 2,
+                      "name": "Slot Gacor",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#slot-gacor"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 3,
+                      "name": "Situs Slot",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#situs-slot"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 4,
+                      "name": "Slot Maxwin",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#slot-maxwin"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 5,
+                      "name": "Slot88",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#slot88"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 6,
+                      "name": "PRG007",
+                      "item": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                    }
+                  ]
+                },
+                {
+                  "@type": "SoftwareApplication",
+                  "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#software",
+                  "name": "PRG007",
+                  "applicationCategory": "GameApplication",
+                  "operatingSystem": "Any",
+                  "url": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/",
+                  "image": "https://imagizer.imageshack.com/img922/3104/DctIKf.jpg",
+                  "description": "PRG007 sudah dikenal sebagai jawara link slot gacor anti Nawala yang memiliki kestabilan sistem permainan dengan variasi promosi dan event terbaru di Asia.",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": "PRG007",
+                    "logo": "https://imagizer.imageshack.com/v2/250x59q70/922/sCX44Z.png"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "priceCurrency": "IDR",
+                    "price": "11777",
+                    "availability": "https://schema.org/InStock",
+                    "url": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5.0",
+                    "reviewCount": "89241",
+                    "bestRating": "5",
+                    "worstRating": "1"
+                  },
+                  "review": [
+                    {
+                      "@type": "Review",
+                      "author": {
+                        "@type": "Person",
+                        "name": "Budi Santoso"
+                      },
+                      "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5",
+                        "bestRating": "5"
+                      },
+                      "reviewBody": "PRG007 memang terasa beda sebagai media slot gacor."
+                    },
+                    {
+                      "@type": "Review",
+                      "author": {
+                        "@type": "Person",
+                        "name": "Rina Melati"
+                      },
+                      "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5",
+                        "bestRating": "5"
+                      },
+                      "reviewBody": "PRG007 punya variasi permainan lengkap dan mudah diakses."
+                    }
+                  ]
+                },
+                {
+                  "@type": "FAQPage",
+                  "@id": "https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/#faq",
+                  "mainEntity": [
+                    {
+                      "@type": "Question",
+                      "name": "Apa itu PRG007?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "PRG007 adalah media slot gacor di Indonesia yang dikenal memberikan pengalaman bermain lebih mudah dengan sistem yang stabil dan akses yang praktis untuk semua pemain."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "Kenapa PRG007 disebut slot gacor mudah maxwin?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Banyak pemain menilai PRG007 memiliki pola permainan yang lebih mudah dipahami serta performa game yang stabil."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "Apakah PRG007 bisa diakses dengan mudah di Indonesia?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, PRG007 dirancang dengan sistem akses yang sederhana sehingga pemain bisa langsung bermain tanpa kendala teknis yang rumit."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+            </script>
+    <link rel="preload"
+        href="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+        as="image" fetchpriority="high" />
+    <link rel="preload"
+        href="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+        as="image" fetchpriority="high" />
+    <link rel="preload" href="https://imagizer.imageshack.com/v2/250x59q70/922/sCX44Z.png"
+        as="image" fetchpriority="high" />
+    <meta name="next-head-count" content="31" />
+    <script>window.InsiderQueue = window.InsiderQueue || []</script>
+    <script src="https://gramedia.api.useinsider.com/ins.js?id=10001896" async=""></script>
+    <script data-sentry-element="ColorSchemeScript" data-sentry-source-file="_document.tsx" data-mantine-script="true">try {
+            var _colorScheme = window.localStorage.getItem("mantine-color-scheme-value");
+            var colorScheme = _colorScheme === "light" || _colorScheme === "dark" || _colorScheme === "auto" ? _colorScheme : "auto";
+            var computedColorScheme = colorScheme !== "auto" ? colorScheme : window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+            document.documentElement.setAttribute("data-mantine-color-scheme", computedColorScheme);
+        } catch (e) { }
+    </script>
+    <meta content="#ffffff" data-react-helmet="true" name="theme-color" data-sentry-element="meta"
+        data-sentry-source-file="_document.tsx" />
+    <link rel="icon" href="https://imagizer.imageshack.com/v2/32x32q50/923/BgY502.png"
+        sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://static.gramedia.net/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://static.gramedia.net/favicon/favicon-16x16.png" />
+    <link rel="apple-touch-icon" href="https://static.gramedia.net/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="/web-api/web-manifest" />
+    <link rel="stylesheet"
+        data-href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" />
+    <link rel="preload" href="https://static.gramedia.net/_next/static/css/c6288be6e4a59b98.css" as="style" />
+    <link rel="stylesheet" href="https://static.gramedia.net/_next/static/css/c6288be6e4a59b98.css" data-n-g="" />
+    <link rel="preload" href="https://static.gramedia.net/_next/static/css/ccd4a234599c9d2d.css" as="style" />
+    <link rel="stylesheet" href="https://static.gramedia.net/_next/static/css/ccd4a234599c9d2d.css" data-n-p="" />
+    <link rel="preload" href="https://static.gramedia.net/_next/static/css/1f9fbb7699b48e23.css" as="style" />
+    <link rel="stylesheet" href="https://static.gramedia.net/_next/static/css/1f9fbb7699b48e23.css" />
+    <link rel="preload" href="https://static.gramedia.net/_next/static/css/9bc1ffd3896e0178.css" as="style" />
+    <link rel="stylesheet" href="https://static.gramedia.net/_next/static/css/9bc1ffd3896e0178.css" />
+    <link rel="preload" href="https://static.gramedia.net/_next/static/css/719c7629447aa749.css" as="style" />
+    <link rel="stylesheet" href="https://static.gramedia.net/_next/static/css/719c7629447aa749.css" /><noscript
+        data-n-css=""></noscript>
+    <script defer="" nomodule=""
+        src="https://static.gramedia.net/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/9ca19d4c-74135e0293cf8554.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/2edfbb11-c0be817a207ce641.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/14dad63f-d1acd10b89d3dce8.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/2a7915f4-f148a676758d2a1c.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/6202.15ce5fe116806909.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/2993.7f1b15ed68b84334.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/90722914-38be303ac25376d3.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/7739-877b7cdd3ee41f98.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/8644.dda432e2ae55b7a9.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/4625.c7c9ec24760286f5.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/3063-87c05561b3798dbf.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/568.ddc7c445784e169c.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/7923.4ee5b4854e1f6059.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/5b710bbb-3320583bd56d0afe.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/8762.ecd8cf717bead82d.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/4818.da295420af94cde3.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/410d3e75-d6511f5ebbc45098.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/5215.122281868770e940.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/1975.09a48beb0725e0ba.js"></script>
+    <script defer="" src="https://static.gramedia.net/_next/static/chunks/5903.d646118aa2498985.js"></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/webpack-9f7bcf98c1d73afb.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/framework-1b7710135cda1fc9.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/main-31b5438bca49a406.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/pages/_app-395a16ea9cfe70c4.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/ecca1f90-c5beeed928cdb7d3.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/5fa4f98f-d7e76eaad36635f0.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/20192f50-38b0be297ba89d50.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/cdc0067d-48340ff83879bcc4.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/835b349d-f0bcec3f5f95a5db.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/0b6663e4-d73dd91b062f1fc8.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/92e5d64c-1f32e10680a8c37c.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/5098-39b2a13bb38027cd.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/4517-2eb8db4ffb00d189.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/7048-9330a2052bf0d2e3.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/7058-c300a85fa92bacd2.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/6823-ed37462b9266a663.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/1473-8f435b9ec79fe9aa.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/4573-e40c85f47113e553.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/2372-d1f6983ef7087b90.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/6113-595fae97042da259.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/6984-7ae6b286930e3dee.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/6990-caeac5431987b24e.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/2022-c36bed47178eef17.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/7077-abc3c7738f8bb564.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/3426-7bd5aaf5708d4401.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/6779-7e6dab4ea80f78c5.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/3439-21f14bbf91c22411.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/chunks/4261-4d012cfbdca8959c.js" defer=""></script>
+    <script
+        src="https://static.gramedia.net/_next/static/chunks/pages/products/%5BproductDetailSlug%5D-9592af291e0dcbeb.js"
+        defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/_j3YyAbag18STKB9CdqRh/_buildManifest.js" defer=""></script>
+    <script src="https://static.gramedia.net/_next/static/_j3YyAbag18STKB9CdqRh/_ssgManifest.js" defer=""></script>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <style>
+        .product-main-container {
+            padding: 0 16px;
+            width: 100%;
+            max-width: 1248px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            /* Default HP: numpuk ke bawah */
+            gap: 32px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        @media (min-width: 768px) {
+            .product-main-container {
+                flex-direction: row;
+                /* Desktop: menyamping */
+            }
+        }
+
+        /* --- FIX HEADER UNTUK MOBILE --- */
+        .header-row {
+            flex-wrap: wrap;
+            /* Izinkan elemen turun baris jika sempit */
+            gap: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .header-col-logo {
+                width: auto !important;
+                /* Jangan gunakan 16%, biarkan menyesuaikan logo */
+            }
+
+            .header-col-buttons {
+                width: auto !important;
+                margin-left: auto;
+                /* Dorong tombol Masuk/Daftar ke ujung kanan */
+            }
+
+            .header-col-search {
+                width: 100% !important;
+                /* Paksa search bar penuhi layar */
+                order: 3;
+                /* Pindahkan search bar ke baris bawah */
+                margin-top: 8px;
+            }
+
+            /* Karena header sekarang punya 2 baris dan lebih tinggi, 
+     kita harus menurunkan konten utama agar tidak tertutup header */
+            main {
+                margin-top: 180px !important;
+            }
+        }
+
+        /* --- RESPONSIVE LOGO --- */
+        .logo-responsive {
+            width: 140px;
+            /* Ukuran di PC */
+            height: auto;
+            max-width: 100%;
+            transition: width 0.3s ease;
+        }
+
+        @media (max-width: 768px) {
+            .logo-responsive {
+                width: 100px !important;
+                /* Ukuran otomatis mengecil di HP */
+            }
+        }
+    </style>
+</head>
+
+<body data-app-version="1.43.0" style="overflow: unset; cursor: auto; background-color: rgb(18, 18, 18); color: rgb(224, 224, 224); user-select: none;">
+    <noscript><iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-T24BH5Q&gtm_auth=eKfVqal5huaCnE85HnGf0w&gtm_preview=env-2&gtm_cookies_win=x"
+            height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe></noscript>
+    <div>
+        <div style="flex-direction:column;min-height:911px;display:flex;position:relative;">
+            <header data-testid="header" data-sentry-component="Navbar" data-sentry-source-file="Navbar.tsx"
+                style="background-color:#1e1e1e;width: 100%;z-index:40;top:0px;position:fixed;">
+                <div data-sentry-component="NavbarSubmenu" data-sentry-source-file="NavbarSubmenu.tsx"
+                    style="padding-top:8px;padding-bottom:8px;background-color:#121212;">
+                    <div
+                        style="padding-left:16px;padding-right:16px;display:flex;margin-left: auto;margin-right: auto;width: 100%; max-width: 1248px; box-sizing: border-box;">
+                        <ul style="margin-right:0px;display:flex;margin-left: auto;">
+                            <li style="margin-right:32px;">
+                                <a data-testid="navbarPromo" data-sentry-element="Link"
+                                    data-sentry-source-file="TextLink.tsx" data-sentry-component="TextLink"
+                                    href="https://prg007-gacordanterbaru.pages.dev/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;">Link
+                                    Resmi</a>
+                            </li>
+                            <li style="margin-right:32px;">
+                                <a data-testid="navbarOfficialStore" data-sentry-element="Link"
+                                    data-sentry-source-file="TextLink.tsx" data-sentry-component="TextLink"
+                                    href="https://prg007-gacordanterbaru.pages.dev/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;">Provider
+                                    Terlengkap</a>
+                            </li>
+                            <li style="margin-right:32px;">
+                                <a data-testid="navbarCustomerService" data-sentry-element="Link"
+                                    data-sentry-source-file="TextLink.tsx" data-sentry-component="TextLink"
+                                    href="https://prg007-gacordanterbaru.pages.dev/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;">Jaminan
+                                    Bayar</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div
+                    style="padding-left:16px;padding-right:16px;justify-content:center;flex-direction:column;display:flex;margin-left: auto;margin-right: auto;width:100%; max-width:1376px; box-sizing: border-box;">
+                    <div class="header-row"
+                        style="margin-bottom: 4px; align-items: center; display: flex; margin-top: 16px;">
+                        <div class="header-col-logo" style="width: 16.6667%;">
+                            <a href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/">
+                                <img alt="Logo PRG007" data-testid="navbarLogo" fetchpriority="high"
+                                    decoding="async" data-nimg="1" class="logo-responsive" style="color:transparent;"
+                                    src="https://imagizer.imageshack.com/v2/250x59q70/922/sCX44Z.png" />
+                            </a>
+                        </div>
+                        <div class="header-col-search"
+                            style="align-items:center;flex-grow:1;width: 58.3333%;display:flex;">
+                            <div
+                                style="align-items:center;width: 83.3333%;display:flex;margin-left: auto;margin-right: auto;">
+
+                                <div data-sentry-component="NavbarSearchBox"
+                                    data-sentry-source-file="NavbarSearchBox.tsx"
+                                    style="margin-right:0px;margin-left:16px;width: 100%;">
+                                    <form>
+                                        <div style="flex-grow:1;position:relative;"><input type="text" maxlength="50"
+                                                placeholder="PRG007 Link Slot Gacor"
+                                                data-testid="navbarSearchBox" data-sentry-element="SearchInput"
+                                                data-sentry-source-file="NavbarSearchBox.tsx" value=""
+                                                style="font-weight:500;font-size:14px;line-height:20px;letter-spacing:0.28px;padding-top:8px;padding-bottom:8px;padding-left:48px;padding-right:48px;border-color:#444444;border-width:1px;border-radius:10000px;flex-grow:1;width: 100%;height:48px;display:flex;" />
+                                            <div
+                                                style="color:#bbbbbb;padding-left:16px;align-items:center;height:48px;display:flex;top:0px;left:0px;position:absolute;">
+                                                <svg style="font-size:20px; line-height:0px; display:block;"
+                                                    fill="currentColor" aria-hidden="true" width="1em" height="1em"
+                                                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                                    <path
+                                                        d="M8.5 3a5.5 5.5 0 0 1 4.38 8.82l4.15 4.15a.75.75 0 0 1-.98 1.13l-.08-.07-4.15-4.15A5.5 5.5 0 1 1 8.5 3Zm0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z"
+                                                        fill="currentColor"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="header-col-buttons" data-sentry-component="NavbarAccount"
+                            data-sentry-source-file="NavbarAccount.tsx" style="width: 16.6667%;display:flex;">
+                            <div data-sentry-component="NavbarAccountGuest"
+                                data-sentry-source-file="NavbarAccountGuest.tsx"
+                                style="display:flex;margin-left: auto;">
+
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" data-testid="navbarLogin"
+                                    data-sentry-element="Button" data-sentry-source-file="NavbarAccountGuest.tsx"
+                                    style="transition-property:color, background-color, border-color, text-decoration-color, fill, stroke;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:0.15s;color:#f0f0f0;font-size:14px;line-height:20px;letter-spacing:0.28px;font-weight:800;padding-top:12px;padding-bottom:12px;padding-left:16px;padding-right:16px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-style:solid;border-radius:12px;justify-content:center;align-items:center;display:flex;margin-right:16px;position:relative;text-decoration:none;box-sizing:border-box;">
+                                    <div class="">Masuk</div>
+                                </a>
+
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" data-testid="navbarRegister"
+                                    data-sentry-element="Button" data-sentry-source-file="NavbarAccountGuest.tsx"
+                                    style="transition-property:color, background-color, border-color, text-decoration-color, fill, stroke;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:0.15s;color:#1e1e1e;font-size:14px;line-height:20px;letter-spacing:0.28px;font-weight:800;padding-top:12px;padding-bottom:12px;padding-left:16px;padding-right:16px;background-color:rgb(0, 96, 174);border-radius:12px;justify-content:center;align-items:center;display:flex;position:relative;text-decoration:none;box-sizing:border-box;">
+                                    <div class="">Daftar</div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div data-sentry-component="KeywordSlider" data-sentry-source-file="ListKeywordSlider.tsx"
+                        style="margin-bottom: 4px;justify-content:center;align-items:center;width: 100%;display:flex;">
+                        <div
+                            style="padding: 2px 0px; left: 40px; width: 556px;left:40px;width: 556px;position:relative;">
+
+                            <div
+                                style="display:block;animation-timing-function:cubic-bezier(0.4, 0, 0.2, 1);animation-duration:0.2s;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:0.2s;align-items:center;transform:matrix(1, 0, 0, 1, 0, -10);z-index:10;top:10px;right:0px;position:absolute;opacity:0;">
+                                <button data-sentry-element="ButtonIcon" data-sentry-source-file="ListKeywordSlider.tsx"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;align-items:center;width: 1.25rem;height:20px;display:flex;"><svg
+                                        fill="currentColor" aria-hidden="true" width="12" height="12"
+                                        viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"
+                                        style="font-size: 12px;color:#f0f0f0;flex-grow:1;line-height:0px;display:block;">
+                                        <path
+                                            d="M4.47 2.22c-.3.3-.3.77 0 1.06L7.19 6 4.47 8.72a.75.75 0 0 0 1.06 1.06l3.25-3.25c.3-.3.3-.77 0-1.06L5.53 2.22a.75.75 0 0 0-1.06 0Z"
+                                            fill="currentColor"></path>
+                                    </svg></button>
+                            </div>
+                            <div
+                                style="display:block;animation-timing-function:cubic-bezier(0.4, 0, 0.2, 1);animation-duration:0.2s;transition-timing-function:ease;transition-duration:0.3s;align-items:center;transform:matrix(1, 0, 0, 1, 0, -10);z-index:10;top:10px;left:0px;position:absolute;opacity:0;cursor: auto;pointer-events:none;transition:0.3s;">
+                                <button data-sentry-element="ButtonIcon" data-sentry-source-file="ListKeywordSlider.tsx"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;align-items:center;width: 1.25rem;height:20px;display:flex;"><svg
+                                        fill="currentColor" aria-hidden="true" width="12" height="12"
+                                        viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"
+                                        style="font-size: 12px;color:#f0f0f0;flex-grow:1;line-height:0px;display:block;">
+                                        <path
+                                            d="M7.53 2.22c.3.3.3.77 0 1.06L4.81 6l2.72 2.72a.75.75 0 0 1-1.06 1.06L3.22 6.53a.75.75 0 0 1 0-1.06l3.25-3.25c.3-.3.77-.3 1.06 0Z"
+                                            fill="currentColor"></path>
+                                    </svg></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div role="separator" data-sentry-element="Divider" data-sentry-source-file="Divider.tsx"
+                    data-sentry-component="Divider" style="border-color:#333333;border-top-width:1px;"></div>
+            </header>
+            <main data-navbar-variant="primary" data-withfooter="true" style="margin-top:133px;position:relative;">
+                <div data-id="productDetailBreadcrumbs" data-testid="productDetailBreadcrumbs"
+                    data-sentry-component="ProductDetailBreadcrumbs"
+                    data-sentry-source-file="ProductDetailBreadcrumbs.tsx" style="padding-left:16px;padding-right:16px;align-items:center;display:flex;margin-top:24px;margin-bottom:32px;margin-left: auto;margin-right: auto;width: 100%;
+max-width: 1248px;
+box-sizing: border-box;">
+                    <nav aria-label="breadcrumb" data-sentry-element="Breadcrumb"
+                        data-sentry-source-file="Breadcrumb.tsx" data-sentry-component="Breadcrumbs">
+                        <ol data-sentry-element="BreadcrumbList" data-sentry-source-file="BreadcrumbList.tsx"
+                            data-sentry-component="BreadcrumbsList" style="display:flex;">
+
+                            <li data-testid="categoriesBreadcrumbsItemHome" data-sentry-element="BreadcrumbItem"
+                                data-sentry-source-file="BreadcrumbItem.tsx" data-sentry-component="BreadcrumbsItem"
+                                style="align-items:center;display:flex;">
+                                <a data-sentry-element="Link" data-sentry-component="TextLink"
+                                    data-sentry-source-file="TextLink.tsx"
+                                    href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:120px;">Home</a>
+                                <svg fill="currentColor" aria-hidden="true" width="20" height="20" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="flex-shrink:0;line-height:0px;display:block;">
+                                    <path
+                                        d="M7.73 4.2a.75.75 0 0 1 1.06.03l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 1 1-1.08-1.04L12.2 10l-4.5-4.73a.75.75 0 0 1 .02-1.06Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </li>
+
+                            <li data-testid="productDetailBreadcrumbsCategory#1" data-sentry-element="BreadcrumbItem"
+                                data-sentry-source-file="BreadcrumbItem.tsx" data-sentry-component="BreadcrumbsItem"
+                                style="align-items:center;display:flex;">
+                                <a data-sentry-element="Link" data-sentry-component="TextLink"
+                                    data-sentry-source-file="TextLink.tsx"
+                                    href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:120px;">Slot Gacor</a>
+                                <svg fill="currentColor" aria-hidden="true" width="20" height="20" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="flex-shrink:0;line-height:0px;display:block;">
+                                    <path
+                                        d="M7.73 4.2a.75.75 0 0 1 1.06.03l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 1 1-1.08-1.04L12.2 10l-4.5-4.73a.75.75 0 0 1 .02-1.06Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </li>
+
+                            <li data-testid="productDetailBreadcrumbsCategory#2" data-sentry-component="BreadcrumbsItem"
+                                data-sentry-source-file="BreadcrumbItem.tsx" style="align-items:center;display:flex;">
+                                <a data-sentry-element="Link" data-sentry-component="TextLink"
+                                    data-sentry-source-file="TextLink.tsx"
+                                    href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:120px;">Situs Slot</a>
+                                <svg fill="currentColor" aria-hidden="true" width="20" height="20" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="flex-shrink:0;line-height:0px;display:block;">
+                                    <path
+                                        d="M7.73 4.2a.75.75 0 0 1 1.06.03l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 1 1-1.08-1.04L12.2 10l-4.5-4.73a.75.75 0 0 1 .02-1.06Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </li>
+
+                            <li data-testid="productDetailBreadcrumbsCategory#3" data-sentry-component="BreadcrumbsItem"
+                                data-sentry-source-file="BreadcrumbItem.tsx" style="align-items:center;display:flex;">
+                                <a data-sentry-element="Link" data-sentry-component="TextLink"
+                                    data-sentry-source-file="TextLink.tsx"
+                                    href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:120px;">Slot Maxwin</a>
+                                <svg fill="currentColor" aria-hidden="true" width="20" height="20" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="flex-shrink:0;line-height:0px;display:block;">
+                                    <path
+                                        d="M7.73 4.2a.75.75 0 0 1 1.06.03l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 1 1-1.08-1.04L12.2 10l-4.5-4.73a.75.75 0 0 1 .02-1.06Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </li>
+
+                            <li data-testid="productDetailBreadcrumbsCategory#4" data-sentry-component="BreadcrumbsItem"
+                                data-sentry-source-file="BreadcrumbItem.tsx" style="align-items:center;display:flex;">
+                                <a data-sentry-element="Link" data-sentry-component="TextLink"
+                                    data-sentry-source-file="TextLink.tsx"
+                                    href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                    style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:120px;">Slot88</a>
+                                <svg fill="currentColor" aria-hidden="true" width="20" height="20" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="flex-shrink:0;line-height:0px;display:block;">
+                                    <path
+                                        d="M7.73 4.2a.75.75 0 0 1 1.06.03l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 1 1-1.08-1.04L12.2 10l-4.5-4.73a.75.75 0 0 1 .02-1.06Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </li>
+
+                            <li aria-current="page" data-testid="productDetailBreadcrumbsItemCurrent"
+                                data-sentry-element="BreadcrumbItem" data-sentry-source-file="BreadcrumbItem.tsx"
+                                data-sentry-component="BreadcrumbsItem" style="align-items:center;display:flex;">
+                                <span
+                                    style="color:#bbbbbb;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:360px;">PRG007</span>
+                            </li>
+
+                        </ol>
+                    </nav>
+                </div>
+                <div class="product-main-container">
+                    <div data-id="productDetailImageContainer" data-testid="productDetailImageContainer"
+                        data-sentry-component="ProductDetailImage" data-sentry-source-file="ProductDetailImage.tsx"
+                        style="width: 100%;
+max-width: 384px; 
+margin: 0 auto;flex-direction:column;flex-shrink:0;display:flex;">
+                        <div style="width: 100%;position:relative;">
+                            <div data-sentry-element="Swiper" data-sentry-source-file="Swiper.tsx"
+                                data-sentry-component="SwiperComponent"
+                                style="touch-action:pan-y;margin-left: auto;margin-right: auto;position:relative;overflow:hidden;list-style:outside none none;padding:0px;z-index:1;display:block;flex-shrink:0;width: 100%;height: auto; aspect-ratio: 3/4;">
+                                <div id="main-swiper-wrapper"
+                                    style="transform: translate3d(0px, 0px, 0px);position:relative;width: 100%;height: auto; aspect-ratio: 3/4;z-index:1;display:flex;transition-property:transform;transition-timing-function:ease;box-sizing:content-box;">
+
+                                    <div data-testid="productDetailImageSlider#0" class="main-slide"
+                                        style="width: 100%;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;flex-shrink:0;height: auto; aspect-ratio: 3/4;position:relative;transition-property:transform;display:block;cursor:pointer;">
+                                        <a href="https://prg007-gacordanterbaru.pages.dev/"
+                                            style="display:block; width:100%; height:100%;">
+                                            <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                    alt="Product image" data-id="productDetailImage#0"
+                                                    data-testid="productDetailImage#0" fetchpriority="high"
+                                                    decoding="async" data-nimg="fill"
+                                                    src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                    style="position: absolute; width: 100%; height: 100%; object-fit: contain; inset: 0px; color: transparent;" />
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div data-testid="productDetailImageSlider#1" class="main-slide"
+                                        style="width: 100%;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;flex-shrink:0;height: auto; aspect-ratio: 3/4;position:relative;transition-property:transform;display:none;cursor:pointer; align-items:center; justify-content:center; background:#000;">
+                                        <video width="100%" height="100%" controls muted autoplay loop
+                                            style="object-fit: contain;">
+                                            <source
+                                                src="https://jumpshare.com/s/s85I18UAY8zjZVPWqOYQ"
+                                                type="video/webm">
+                                            Your browser does not support the video tag.
+                                        </video>
+                                    </div>
+
+                                    <div data-testid="productDetailImageSlider#2" class="main-slide"
+                                        style="width: 100%;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;flex-shrink:0;height: auto; aspect-ratio: 3/4;position:relative;transition-property:transform;display:none;cursor:pointer;">
+                                        <a href="https://prg007-gacordanterbaru.pages.dev/"
+                                            style="display:block; width:100%; height:100%;">
+                                            <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                    alt="Product image" data-nimg="fill"
+                                                    src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                    style="position: absolute; width: 100%; height: 100%; object-fit: contain; inset: 0px; color: transparent;" />
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div data-testid="productDetailImageSlider#3" class="main-slide"
+                                        style="width: 100%;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;flex-shrink:0;height: auto; aspect-ratio: 3/4;position:relative;transition-property:transform;display:none;cursor:pointer;">
+                                        <a href="https://prg007-gacordanterbaru.pages.dev/"
+                                            style="display:block; width:100%; height:100%;">
+                                            <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                    alt="Product image" data-nimg="fill"
+                                                    src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                    style="position: absolute; width: 100%; height: 100%; object-fit: contain; inset: 0px; color: transparent;" />
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div data-testid="productDetailImageSlider#4" class="main-slide"
+                                        style="width: 100%;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;flex-shrink:0;height: auto; aspect-ratio: 3/4;position:relative;transition-property:transform;display:none;cursor:pointer;">
+                                        <a href="https://prg007-gacordanterbaru.pages.dev/"
+                                            style="display:block; width:100%; height:100%;">
+                                            <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                    alt="Product image" data-nimg="fill"
+                                                    src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                    style="position: absolute; width: 100%; height: 100%; object-fit: contain; inset: 0px; color: transparent;" />
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                </div>
+                                <div
+                                    style="display:none;bottom:8px;top:auto;left:0px;width: 100%;position:absolute;text-align:center;transition:opacity 0.3s;transform:none;z-index:10;">
+                                    <span
+                                        style="margin:0px 4px 8px;opacity:1;background:#1e1e1e none repeat scroll 0% 0% / auto padding-box border-box;display:none;width:8px;height:8px;border-radius:50%;border:1px solid #f0f0f0;background-color:#1e1e1e;scale:1.3;margin-bottom:8px;"></span>
+                                </div>
+                            </div>
+                            <div role="button" data-testid="productDetailImagePrev"
+                                style="top: calc(50% - 20px);display:none;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;justify-content:center;align-items:center;cursor:auto;width: 2.5rem;height:40px;z-index:10;left:0px;position:absolute;opacity:0;pointer-events:none;transition:0.3s;">
+                                <svg fill="currentColor" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg" style="line-height:0px;display:inline;">
+                                    <path
+                                        d="M15.7 4.3a1 1 0 0 1 0 1.4L9.42 12l6.3 6.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 0Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                            <div role="button" data-testid="productDetailImageNext"
+                                style="top: calc(50% - 20px);display:none;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;justify-content:center;align-items:center;cursor:auto;width: 2.5rem;height:40px;z-index:10;right:0px;position:absolute;opacity:0;pointer-events:none;transition:0.3s;">
+                                <svg fill="currentColor" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg" style="line-height:0px;display:inline;">
+                                    <path
+                                        d="M8.3 4.3a1 1 0 0 0 0 1.4l6.29 6.3-6.3 6.3a1 1 0 1 0 1.42 1.4l7-7a1 1 0 0 0 0-1.4l-7-7a1 1 0 0 0-1.42 0Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                        </div>
+                        <div unselectable="on" style="margin-top:20px;position:relative;">
+                            <div data-sentry-element="Swiper" data-sentry-component="SwiperComponent"
+                                data-sentry-source-file="Swiper.tsx"
+                                style="touch-action:pan-y;margin-left: auto;margin-right: auto;position:relative;overflow:hidden;list-style:outside none none;padding:0px;z-index:1;display:block;">
+                                <div id="thumb-swiper-wrapper"
+                                    style="transition-duration: 0ms; transition-delay: 0ms; transform: translate3d(16px, 0px, 0px);transition-delay:0s;transform:matrix(1, 0, 0, 1, 16, 0);position:relative;width: 100%;height:60px;z-index:1;display:flex;transition-property:transform;transition-timing-function:ease;box-sizing:content-box;">
+
+                                    <div data-testid="productDetailImageSliderSmall#0" onclick="showSlide(0)"
+                                        style="margin-right: 12px;position:relative;height:60px;width: 40px !important;flex-shrink:0;user-select:none;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;transition-property:transform;display:block;cursor:pointer; border: 2px solid #007bff;">
+                                        <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                alt="Product image thumb" data-testid="productDetailImageSmall#0"
+                                                fetchpriority="high" decoding="async" data-nimg="fill"
+                                                src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;height:60px;width: 100%;inset:0px;color:rgba(0, 0, 0, 0);object-fit:contain;" />
+                                        </div>
+                                    </div>
+
+                                    <div data-testid="productDetailImageSliderSmall#1" onclick="showSlide(1)"
+                                        style="margin-right: 12px;position:relative;height:60px;width: 40px !important;flex-shrink:0;user-select:none;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;transition-property:transform;display:block;cursor:pointer; background:#000; align-items:center; justify-content:center; display:flex;">
+                                        <video width="100%" height="100%" muted style="object-fit: cover;">
+                                            <source
+                                                src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                type="video/webm">
+                                        </video>
+                                        <div
+                                            style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; background:rgba(0,0,0,0.5); border-radius:50%; padding:4px; display:flex;">
+                                            <svg fill="currentColor" width="16" height="16" viewBox="0 0 16 16">
+                                                <path
+                                                    d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" /></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+
+                                    <div data-testid="productDetailImageSliderSmall#2" onclick="showSlide(2)"
+                                        style="margin-right: 12px;position:relative;height:60px;width: 40px !important;flex-shrink:0;user-select:none;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;transition-property:transform;display:block;cursor:pointer;">
+                                        <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                alt="Product image thumb" data-nimg="fill"
+                                                src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;height:60px;width: 100%;inset:0px;color:rgba(0, 0, 0, 0);object-fit:contain;" />
+                                        </div>
+                                    </div>
+                                    <div data-testid="productDetailImageSliderSmall#3" onclick="showSlide(3)"
+                                        style="margin-right: 12px;position:relative;height:60px;width: 40px !important;flex-shrink:0;user-select:none;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;transition-property:transform;display:block;cursor:pointer;">
+                                        <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                alt="Product image thumb" data-nimg="fill"
+                                                src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;height:60px;width: 100%;inset:0px;color:rgba(0, 0, 0, 0);object-fit:contain;" />
+                                        </div>
+                                    </div>
+                                    <div data-testid="productDetailImageSliderSmall#4" onclick="showSlide(4)"
+                                        style="margin-right: 12px;position:relative;height:60px;width: 40px !important;flex-shrink:0;user-select:none;transform:matrix(1, 0, 0, 1, 0, 0);backface-visibility:hidden;transition-property:transform;display:block;cursor:pointer;">
+                                        <div data-sentry-component="Image" data-sentry-source-file="Image.tsx"><img
+                                                alt="Product image thumb" data-nimg="fill"
+                                                src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                                style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;height:60px;width: 100%;inset:0px;color:rgba(0, 0, 0, 0);object-fit:contain;" />
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div role="button" data-testid="productDetailImagePrev"
+                                style="top: calc(50% - 12px);display:none;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;justify-content:center;align-items:center;cursor:auto;width: 1.5rem;height:24px;z-index:10;left:0px;position:absolute;opacity:0;pointer-events:none;transition:0.3s;">
+                                <svg fill="currentColor" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16"
+                                    xmlns="http://www.w3.org/2000/svg" style="line-height:0px;display:inline;">
+                                    <path
+                                        d="M10.26 3.2c.3.28.32.76.04 1.06L6.77 8l3.53 3.74a.75.75 0 1 1-1.1 1.02l-4-4.25a.75.75 0 0 1 0-1.02l4-4.25a.75.75 0 0 1 1.06-.04Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                            <div role="button" data-testid="productDetailImageNext"
+                                style="top: calc(50% - 12px);display:none;box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(50, 52, 55, 0.06) 0px 8px 12px 6px, rgba(50, 52, 55, 0.1) 0px 4px 36px 0px;background-color:#1e1e1e;border-color:#444444;border-width:1px;border-radius:10000px;justify-content:center;align-items:center;cursor:pointer;width: 1.5rem;height:24px;z-index:10;right:0px;position:absolute;opacity:0;">
+                                <svg fill="currentColor" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16"
+                                    xmlns="http://www.w3.org/2000/svg" style="line-height:0px;display:inline;">
+                                    <path
+                                        d="M5.74 3.2a.75.75 0 0 0-.04 1.06L9.23 8 5.7 11.74a.75.75 0 1 0 1.1 1.02l4-4.25a.75.75 0 0 0 0-1.02l-4-4.25a.75.75 0 0 0-1.06-.04Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+
+                    <script>
+                        function showSlide(index) {
+                            // Hide all main slides
+                            const mainSlides = document.querySelectorAll('.main-slide');
+                            mainSlides.forEach(slide => {
+                                slide.style.display = 'none';
+                                // Stop video if it's the video slide being hidden
+                                const video = slide.querySelector('video');
+                                if (video) {
+                                    video.pause();
+                                    video.currentTime = 0;
+                                }
+                            });
+
+                            // Show the selected slide
+                            const selectedSlide = document.querySelector(`[data-testid="productDetailImageSlider#${index}"]`);
+                            if (selectedSlide) {
+                                if (index === 1) { // Video slide
+                                    selectedSlide.style.display = 'flex';
+                                    const video = selectedSlide.querySelector('video');
+                                    if (video) {
+                                        video.play();
+                                    }
+                                } else {
+                                    selectedSlide.style.display = 'block';
+                                }
+                            }
+
+                            // Update thumbnail borders
+                            const thumbs = document.querySelectorAll('[data-testid^="productDetailImageSliderSmall#"]');
+                            thumbs.forEach((thumb, i) => {
+                                thumb.style.border = (i === index) ? '2px solid #007bff' : 'none';
+                            });
+                        }
+                    </script>
+                    <div style="margin-top:0px;flex-grow:1;min-width:0px;">
+                        <div style="padding-left:16px;padding-right:16px;display:flex;">
+                            <div style="row-gap:8px;flex-direction:column;flex-grow:1;min-width:0px;display:flex;">
+                                <div style="flex-direction:column;row-gap:8px;display:flex;">
+                                    <div style="flex-direction:column;display:flex;"><a
+                                            data-testid="productDetailAuthor" data-sentry-element="Link"
+                                            data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                            href="/author/author-endo-tatsuya"
+                                            style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;color:#bbbbbb;font-size:14px;line-height:20px;letter-spacing:0.28px;font-weight:600;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;">Slot
+                                            Gacor</a>
+                                        <h1 data-id="productDetailTitle" data-testid="productDetailTitle"
+                                            data-sentry-component="ProductDetailTitle"
+                                            data-sentry-source-file="ProductDetailTitle.tsx"
+                                            style="color:#ffffff;font-size:28px;line-height:36px;letter-spacing:-0.14px;font-weight:800;text-align:left;max-height:72px;overflow:hidden;display:block;">
+                                            PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia</h1>
+                                    </div>
+                                    <div
+                                        style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; width: 100%; padding: 16px 0;">
+
+                                        <div
+                                            style="justify-self: start; row-gap:4px; align-items:center; display:flex;">
+                                            <div style="flex-direction:column;display:flex;">
+                                                <div data-id="productDetailFinalPrice"
+                                                    data-testid="productDetailFinalPrice"
+                                                    data-sentry-component="ProductDetailFinalPrice"
+                                                    data-sentry-source-file="ProductDetailFinalPrice.tsx"
+                                                    ins-init-condition="#W2RhdGEtdGVzdGlkPXByb2R1Y3REZXRhaWxGaW5hbFByaWNlXTp2aXNpYmxl"
+                                                    style="color:#f0f0f0;font-size:32px;line-height:40px;letter-spacing:-0.24px;font-weight:800;">
+                                                    Rp10.777
+                                                </div>
+                                                <div data-testid="productDetailSlicePriceContainer"
+                                                    data-sentry-component="ProductDetailSlicePrice"
+                                                    data-sentry-source-file="ProductDetailSlicePrice.tsx"
+                                                    style="column-gap:4px;align-items:center;display:flex;">
+                                                    <div>
+                                                        <span data-testid="productDetailDiscount"
+                                                            data-sentry-element="Label"
+                                                            data-sentry-source-file="Label.tsx"
+                                                            data-sentry-component="Label"
+                                                            style="color:rgb(185, 17, 38);font-weight:500;font-size:14px;line-height:20px;letter-spacing:0.28px;padding-top:4px;padding-bottom:4px;padding-left:8px;padding-right:8px;background-color:rgb(248, 231, 233);border-radius:8px;">20%</span>
+                                                    </div>
+                                                    <div data-id="productDetailSlicePrice"
+                                                        data-testid="productDetailSlicePrice"
+                                                        style="text-decoration-line:line-through;color:#444444;font-weight:500;font-size:14px;line-height:20px;letter-spacing:0.28px;">
+                                                        Rp77.999
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div data-sentry-component="ProductFreeShippingLabel"
+                                            data-sentry-source-file="ProductFreeShippingLabel.tsx"
+                                            style="justify-self: center; display:flex; align-items:center; max-width: 500px; width: 100%;">
+
+                                            <a href="https://prg007-gacordanterbaru.pages.dev/"
+                                                style="width: 100%; display: block; text-decoration: none;">
+                                                <img alt="Daftar Login PRG007"
+                                                    src="https://imagizer.imageshack.com/img923/8531/USPPsM.gif"
+                                                    style="width: 100%; height: auto; border-radius: 8px; object-fit: contain;" />
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="padding-left:16px;padding-right:16px;margin-top:64px;">
+                            <div
+                                style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;">
+                                Deskripsi</div>
+                                <p style="text-align: justify;">
+                                    <a href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" style="color:#b808f8;">PRG007</a> dikenal sebagai jawara link slot gacor anti nawala yang menghadirkan akses lebih fleksibel bagi pemain di Asia. Dengan sistem yang stabil dan koneksi yang ringan, platform ini memberikan pengalaman bermain yang lebih lancar tanpa hambatan, sehingga pemain bisa menikmati setiap permainan dengan nyaman kapan saja.
+                                    </p>
+                                    <br>
+                                    
+                                    <p style="text-align: justify;">
+                                    Sebagai salah satu link slot gacor yang cukup populer, PRG007 menawarkan berbagai variasi permainan dengan fitur modern serta dukungan dari provider terbaik. Banyak pemain menilai bahwa performa permainan di dalamnya terasa lebih stabil, sehingga peluang untuk mendapatkan hasil optimal lebih terbuka, terutama bagi pecinta <a href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/" style="color:#b808f8;">slot gacor</a> yang mencari akses tanpa kendala.
+                                    </p>
+                                    <br>
+                                    
+                                    <p style="text-align: justify;">
+                                    Selain menghadirkan permainan yang beragam, PRG007 juga dikenal dengan variasi promosi dan event terbaru yang membuat pengalaman bermain menjadi lebih menarik. Sistem yang responsif serta akses anti nawala menjadikan platform ini semakin diminati sebagai salah satu link slot gacor terbaik di Asia saat ini.
+                                    </p>
+                        </div>
+                        <div
+                            style="padding-left:16px;padding-right:16px;margin-top:32px;max-width:1248px;margin-left:auto;margin-right:auto;">
+                            <div
+                                style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;">
+                                Detail Situs
+                            </div>
+                            <div style="margin-top:16px;">
+                                <style>
+                                    /* Desain List Baris untuk Detail Situs (Menggantikan Grid) */
+                                    .site-spec-list-container {
+                                        background-color: #1e1e1e;
+                                        border: 1px solid #333333;
+                                        border-radius: 12px;
+                                        overflow: hidden;
+                                        width: 100%;
+                                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                                    }
+
+                                    .site-spec-row {
+                                        display: flex;
+                                        justify-content: space-between;
+                                        align-items: center;
+                                        padding: 16px 20px;
+                                        border-bottom: 1px solid #333333;
+                                        transition: background-color 0.2s ease;
+                                    }
+
+                                    .site-spec-row:last-child {
+                                        border-bottom: none;
+                                    }
+
+                                    .site-spec-row:hover {
+                                        background-color: #25282b;
+                                    }
+
+                                    .site-spec-left {
+                                        display: flex;
+                                        align-items: center;
+                                        gap: 16px;
+                                    }
+
+                                    .site-spec-icon-box {
+                                        width: 36px;
+                                        height: 36px;
+                                        color: #66b2ff;
+                                        background: #112233;
+                                        border-radius: 8px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        flex-shrink: 0;
+                                    }
+
+                                    .site-spec-icon-box svg {
+                                        width: 18px;
+                                        height: 18px;
+                                    }
+
+                                    .site-spec-label-text {
+                                        color: #aaaaaa;
+                                        font-size: 12px;
+                                        font-weight: 700;
+                                        text-transform: uppercase;
+                                        letter-spacing: 0.5px;
+                                    }
+
+                                    .site-spec-value-text {
+                                        color: #ffffff;
+                                        font-size: 14px;
+                                        font-weight: 800;
+                                        text-align: right;
+                                    }
+                                </style>
+
+                                <div class="site-spec-list-container">
+                                    <div class="site-spec-row">
+                                        <div class="site-spec-left">
+                                            <div class="site-spec-icon-box">
+                                                <svg fill="currentColor" viewBox="0 0 24 24">
+                                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" /></path>
+                                                </svg>
+                                            </div>
+                                            <div class="site-spec-label-text">Nama Situs</div>
+                                        </div>
+                                        <div class="site-spec-value-text">PRG007</div>
+                                    </div>
+
+                                    <div class="site-spec-row">
+                                        <div class="site-spec-left">
+                                            <div class="site-spec-icon-box">
+                                                <svg fill="currentColor" viewBox="0 0 24 24">
+                                                    <path
+                                                        d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z" /></path>
+                                                </svg>
+                                            </div>
+                                            <div class="site-spec-label-text">Status Link</div>
+                                        </div>
+                                        <div class="site-spec-value-text">Resmi & Gacor Slot777</div>
+                                    </div>
+
+                                    <div class="site-spec-row">
+                                        <div class="site-spec-left">
+                                            <div class="site-spec-icon-box">
+                                                <svg fill="currentColor" viewBox="0 0 24 24">
+                                                    <path
+                                                        d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2z" /></path>
+                                                </svg>
+                                            </div>
+                                            <div class="site-spec-label-text">Koleksi Game</div>
+                                        </div>
+                                        <div class="site-spec-value-text">Provider Terlengkap</div>
+                                    </div>
+
+                                    <div class="site-spec-row">
+                                        <div class="site-spec-left">
+                                            <div class="site-spec-icon-box">
+                                                <svg fill="currentColor" viewBox="0 0 24 24">
+                                                    <path
+                                                        d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z" /></path>
+                                                </svg>
+                                            </div>
+                                            <div class="site-spec-label-text">Sistem Akses</div>
+                                        </div>
+                                        <div class="site-spec-value-text">Mudah Tanpa VPN</div>
+                                    </div>
+
+                                    <div class="site-spec-row">
+                                        <div class="site-spec-left">
+                                            <div class="site-spec-icon-box">
+                                                <svg fill="currentColor" viewBox="0 0 24 24">
+                                                    <path
+                                                        d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" /></path>
+                                                </svg>
+                                            </div>
+                                            <div class="site-spec-label-text">Garansi Penarikan</div>
+                                        </div>
+                                        <div class="site-spec-value-text" style="color: #66b2ff;">Jaminan Bayar 100%
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    /* Grid Container Utama untuk membuat berselahan */
+                    .faq-review-container {
+                        display: grid;
+                        grid-template-columns: 1fr 1fr;
+                        /* Membagi dua kolom sama rata */
+                        gap: 32px;
+                        /* Jarak antara kolom FAQ dan Ulasan */
+                        padding-left: 16px;
+                        padding-right: 16px;
+                        margin-top: 48px;
+                        margin-bottom: 64px;
+                        max-width: 1248px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        align-items: start;
+                        /* Supaya kedua kolom mulai dari atas */
+                    }
+
+                    /* Responsif: Menumpuk ke bawah jika layar kecil */
+                    @media (max-width: 900px) {
+                        .faq-review-container {
+                            grid-template-columns: 1fr;
+                            /* Menjadi 1 kolom penuh */
+                        }
+                    }
+
+                    /* -- Style FAQ -- */
+                    .faq-accordion {
+                        background-color: #1e1e1e;
+                        border: 1px solid #333333;
+                        border-radius: 12px;
+                        margin-bottom: 12px;
+                        overflow: hidden;
+                        transition: all 0.3s ease;
+                    }
+
+                    .faq-accordion summary {
+                        color: #ffffff;
+                        font-weight: 700;
+                        font-size: 15px;
+                        padding: 18px 20px;
+                        cursor: pointer;
+                        list-style: none;
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                    }
+
+                    .faq-accordion summary::-webkit-details-marker {
+                        display: none;
+                    }
+
+                    .faq-icon-plus {
+                        color: #0060ae;
+                        font-size: 20px;
+                        font-weight: bold;
+                        transition: transform 0.3s ease;
+                    }
+
+                    .faq-accordion[open] .faq-icon-plus {
+                        transform: rotate(45deg);
+                        color: #66b2ff;
+                    }
+
+                    .faq-content {
+                        color: #bbbbbb;
+                        padding: 0 20px 20px 20px;
+                        font-size: 14px;
+                        line-height: 1.6;
+                    }
+
+                    /* -- Style Ulasan -- */
+                    /* Karena sekarang ruangnya lebih sempit (dibagi dua), kita ubah ulasan dari horizontal scroll kembali ke vertikal list atau grid kecil agar lebih rapi */
+                    .review-vertical-list {
+                        display: flex;
+                        flex-direction: column;
+                        gap: 16px;
+                        max-height: 500px;
+                        /* Batas tinggi, bisa di scroll */
+                        overflow-y: auto;
+                        padding-right: 8px;
+                        scrollbar-width: thin;
+                        scrollbar-color: #66b2ff #1e1e1e;
+                    }
+
+                    .review-vertical-list::-webkit-scrollbar {
+                        width: 6px;
+                    }
+
+                    .review-vertical-list::-webkit-scrollbar-track {
+                        background: #1e1e1e;
+                        border-radius: 8px;
+                    }
+
+                    .review-vertical-list::-webkit-scrollbar-thumb {
+                        background-color: #66b2ff;
+                        border-radius: 8px;
+                    }
+
+                    .review-card {
+                        background-color: #1e1e1e;
+                        border: 1px solid #333333;
+                        border-left: 4px solid #0060ae;
+                        border-radius: 12px;
+                        padding: 20px;
+                        box-sizing: border-box;
+                        display: flex;
+                        flex-direction: column;
+                    }
+
+                    .stars-container svg {
+                        width: 16px;
+                        height: 16px;
+                        color: rgb(255, 206, 59);
+                        margin-right: 2px;
+                    }
+
+                    .avatar-initial {
+                        width: 40px;
+                        height: 40px;
+                        border-radius: 50%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        font-size: 16px;
+                        font-weight: 800;
+                        color: #ffffff;
+                        flex-shrink: 0;
+                    }
+                </style>
+
+                <div class="faq-review-container">
+
+                    <div>
+                        <div
+    style="color:#f0f0f0;font-size:24px;line-height:32px;letter-spacing:-0.06px;font-weight:800; margin-bottom: 24px;">
+    FAQ Seputar PRG007
+</div>
+
+<details class="faq-accordion">
+    <summary>Apa itu PRG007? <span class="faq-icon-plus">+</span></summary>
+    <div class="faq-content">
+        PRG007 adalah media slot gacor di Indonesia yang dikenal memberikan pengalaman bermain lebih mudah dengan sistem yang stabil dan akses yang praktis untuk semua pemain.
+    </div>
+</details>
+
+<details class="faq-accordion">
+    <summary>Kenapa PRG007 disebut slot gacor mudah maxwin? <span class="faq-icon-plus">+</span></summary>
+    <div class="faq-content">
+        Banyak pemain menilai PRG007 memiliki pola permainan yang lebih mudah dipahami serta performa game yang stabil, sehingga peluang mendapatkan hasil maksimal terasa lebih konsisten dibanding platform lainnya.
+    </div>
+</details>
+
+<details class="faq-accordion">
+    <summary>Apakah PRG007 bisa diakses dengan mudah di Indonesia? <span class="faq-icon-plus">+</span></summary>
+    <div class="faq-content">
+        Ya, PRG007 dirancang dengan sistem akses yang sederhana sehingga pemain bisa langsung bermain tanpa kendala teknis yang rumit, kapan saja dan di mana saja.
+    </div>
+</details>
+
+<details class="faq-accordion">
+    <summary>Apakah permainan di PRG007 lengkap? <span class="faq-icon-plus">+</span></summary>
+    <div class="faq-content">
+        PRG007 menyediakan berbagai variasi permainan slot dengan fitur modern dan pilihan game yang terus diperbarui, sehingga pemain tidak kehabisan opsi untuk dimainkan setiap harinya.
+    </div>
+</details>
+
+<details class="faq-accordion">
+    <summary>Apakah PRG007 aman dan nyaman digunakan? <span class="faq-icon-plus">+</span></summary>
+    <div class="faq-content">
+        Platform ini dirancang untuk memberikan kenyamanan bermain dengan sistem yang responsif, sehingga pemain bisa fokus menikmati permainan tanpa gangguan teknis yang berarti.
+    </div>
+</details>
+                        </div>
+                    </div>
+
+                </div>
+                <div
+                    style="width: 100%;
+max-width: 1248px;
+box-sizing: border-box;row-gap:48px;column-gap:32px;flex-direction:column;display:flex;margin-top:50px;margin-left: auto;margin-right: auto;position:relative;">
+                </div>
+                <div id="enercer-rekomendasi-widget"
+                    style="width: 100%; max-width: 1200px; margin: 48px auto; border-radius: 20px; background: linear-gradient(145deg, #16181a, #0d0f11); padding: 32px 24px; box-sizing: border-box; overflow: hidden; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
+                    <h2
+                        style="text-align: center; font-size: 26px; font-weight: 900; color: #ffffff; margin: 0 0 32px 0; letter-spacing: 1.5px; text-transform: uppercase;">
+                        Rekomendasi <span style="color: #0060ae;">Pilihan</span>
+                    </h2>
+
+                    <style>
+                        /* Animasi berjalan dari kanan ke kiri yang lebih smooth */
+                        @keyframes scrollSmooth {
+                            0% {
+                                transform: translateX(0);
+                            }
+
+                            100% {
+                                transform: translateX(calc(-100% / 2));
+                            }
+
+                            /* Bergeser sejauh setengah (karena konten diduplikat) */
+                        }
+
+                        .em-track-container {
+                            width: 100%;
+                            overflow: hidden;
+                            /* Gradient fade di kiri dan kanan */
+                            -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+                            mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+                        }
+
+                        .em-track {
+                            display: flex;
+                            width: max-content;
+                            /* Lebar dinamis menyesuaikan isi */
+                            animation: scrollSmooth 30s linear infinite;
+                        }
+
+                        .em-track:hover {
+                            animation-play-state: paused;
+                        }
+
+                        /* Kartu Produk Desain Modern */
+                        .em-card {
+                            width: 240px;
+                            /* Lebar fixed per kartu */
+                            padding: 0 10px;
+                            box-sizing: border-box;
+                            flex-shrink: 0;
+                        }
+
+                        .em-content {
+                            display: flex;
+                            flex-direction: column;
+                            text-decoration: none;
+                            color: #ffffff;
+                            border-radius: 16px;
+                            padding: 16px;
+                            background: #1e2124;
+                            height: 100%;
+                            box-sizing: border-box;
+                            position: relative;
+                            overflow: hidden;
+                            border: 1px solid rgba(255, 255, 255, 0.05);
+                            transition: all 0.3s ease;
+                        }
+
+                        /* Efek Hover Glowing */
+                        .em-content:hover {
+                            transform: translateY(-8px);
+                            box-shadow: 0 12px 28px rgba(0, 96, 174, 0.25);
+                            border-color: rgba(0, 96, 174, 0.5);
+                            background: #23272a;
+                        }
+
+                        .em-image-container {
+                            width: 100%;
+                            aspect-ratio: 1/1;
+                            border-radius: 12px;
+                            overflow: hidden;
+                            margin-bottom: 16px;
+                            background: #111;
+                        }
+
+                        .em-image {
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                            transition: transform 0.5s ease;
+                        }
+
+                        .em-content:hover .em-image {
+                            transform: scale(1.08);
+                            /* Efek zoom pada gambar saat hover */
+                        }
+
+                        .em-brand {
+                            font-size: 11px;
+                            color: #0060ae;
+                            font-weight: 800;
+                            text-transform: uppercase;
+                            letter-spacing: 1px;
+                            margin-bottom: 4px;
+                        }
+
+                        .em-title {
+                            font-size: 16px;
+                            font-weight: 700;
+                            line-height: 1.4;
+                            margin-bottom: 12px;
+                            color: #e0e0e0;
+                            display: -webkit-box;
+                            -webkit-line-clamp: 2;
+                            /* Maksimal 2 baris */
+                            -webkit-box-orient: vertical;
+                            overflow: hidden;
+                        }
+
+                        .em-price-wrapper {
+                            margin-top: auto;
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            padding-top: 12px;
+                            border-top: 1px solid rgba(255, 255, 255, 0.05);
+                        }
+
+                        .em-price {
+                            font-size: 18px;
+                            font-weight: 900;
+                            color: #ffffff;
+                        }
+
+                        .em-action-btn {
+                            background: #0060ae;
+                            color: white;
+                            border: none;
+                            border-radius: 50%;
+                            width: 32px;
+                            height: 32px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-size: 16px;
+                            transition: background 0.2s;
+                        }
+
+                        .em-content:hover .em-action-btn {
+                            background: #66b2ff;
+                        }
+
+                        /* Responsif */
+                        @media (max-width: 768px) {
+                            .em-card {
+                                width: 200px;
+                            }
+
+                            .em-title {
+                                font-size: 14px;
+                            }
+
+                            .em-price {
+                                font-size: 16px;
+                            }
+                        }
+                    </style>
+
+                    <div class="em-track-container">
+                        <div class="em-track" id="em-track-inner">
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Situs Resmi" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Situs Resmi Terpercaya</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 21.540</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Provider Terlengkap" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Provider Game Terlengkap</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 48.900</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Akses Mudah" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Akses Mudah Tanpa VPN</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 85.250</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Jaminan Bayar" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Jaminan Bayar Lunas</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 124.600</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Server Stabil" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Server Canggih & Stabil</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 210.850</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Sensasi Bermain" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Sensasi Bermain Mulus</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 385.420</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg"
+                                            alt="Peluang Kemenangan" class="em-image">
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Peluang Menang Maksimal</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 561.657</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                        
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Situs Resmi" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Situs Resmi Terpercaya</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 21.540</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Provider Terlengkap" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Provider Game Terlengkap</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 48.900</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Akses Mudah" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Akses Mudah Tanpa VPN</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 85.250</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Jaminan Bayar" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Jaminan Bayar Lunas</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 124.600</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Server Stabil" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Server Canggih &amp; Stabil</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 210.850</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Sensasi Bermain" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Sensasi Bermain Mulus</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 385.420</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="em-card">
+                                <a href="https://prg007-gacordanterbaru.pages.dev/" class="em-content">
+                                    <div class="em-image-container">
+                                        <img src="https://imagizer.imageshack.com/img922/3104/DctIKf.jpg" alt="Peluang Kemenangan" class="em-image" />
+                                    </div>
+                                    <div class="em-brand">PRG007</div>
+                                    <div class="em-title">Peluang Menang Maksimal</div>
+                                    <div class="em-price-wrapper">
+                                        <div class="em-price">Rp 561.657</div>
+                                        <div class="em-action-btn">→</div>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            var track = document.getElementById('em-track-inner');
+                            // Gandakan isi track sekali untuk efek looping tak terbatas
+                            if (track) {
+                                track.innerHTML += track.innerHTML;
+                            }
+                        });
+                    </script>
+                </div>
+            </main>
+            <footer data-testid="footer" data-sentry-component="Footer" data-sentry-source-file="Footer.tsx"
+                style="border-color:#333333;border-top-width:1px;width: 100%;margin-top:48px;overflow:hidden;">
+                <section
+                    style="padding:20px;align-items:center;display:flex; flex-wrap: wrap; gap: 16px; margin-left: auto;margin-right: auto;width: 100%; max-width: 1248px; box-sizing: border-box;">
+                    <a href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/">
+                        <img alt="Logo PRG007" data-testid="footerLogo" data-sentry-element="Image"
+                            data-sentry-source-file="Footer.tsx" fetchpriority="high" decoding="async" data-nimg="1"
+                            class="logo-responsive" style="color:transparent; margin-left: auto; margin-right: auto;"
+                            src="https://imagizer.imageshack.com/v2/250x59q70/922/sCX44Z.png" />
+                    </a>
+                    <div data-testid="footerSlogan"
+                        style="color:#bbbbbb;font-size:18px;line-height:28px;letter-spacing:0.09px;font-weight:800;margin-left: auto;">
+                        Media Slot Gacor Mudah Maxwin Slot88
+                    </div>
+                </section>
+                <section
+                    style="padding-top:40px;padding-bottom:40px;background-color:#121212;border-color:#333333;border-top-width:1px;align-items:center;display:flex;">
+                    <div
+                        style="padding-left:16px;padding-right:16px;justify-content:space-between;display:flex; flex-wrap: wrap; gap: 32px; margin-left: auto;margin-right: auto;width: 100%; max-width: 1248px; box-sizing: border-box;">
+                        <ul data-testid="footerMenuList"
+                            style="display:flex; flex-wrap:wrap; gap:24px; padding:0; margin:0;">
+                            <li data-testid="footerMenuItem#0" style="list-style-type:none;">
+                                <h3 data-testid="footerMenuItemTitle#0"
+                                    style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;margin-bottom:12px;">
+                                    Produk PRG007</h3>
+                                <div style="flex-direction:column;display:flex;">
+                                    <a data-testid="footerMenu#0SubMenu#0" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Slot
+                                        Gacor Terpercaya</a>
+                                    <a data-testid="footerMenu#0SubMenu#1" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Game
+                                        Live Casino</a>
+                                </div>
+                            </li>
+                            <li data-testid="footerMenuItem#1"
+                                style="margin-right:0px;margin-left:40px;list-style-type:none;">
+                                <h3 data-testid="footerMenuItemTitle#1"
+                                    style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;margin-bottom:12px;">
+                                    Informasi Transaksi</h3>
+                                <div style="flex-direction:column;display:flex;">
+                                    <a data-testid="footerMenu#1SubMenu#0" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Cara
+                                        Bermain</a>
+                                    <a data-testid="footerMenu#1SubMenu#1" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Deposit
+                                        & Withdraw</a>
+                                    <a data-testid="footerMenu#1SubMenu#2" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Promosi
+                                        & Bonus</a>
+                                </div>
+                            </li>
+                            <li data-testid="footerMenuItem#2"
+                                style="margin-right:0px;margin-left:40px;list-style-type:none;">
+                                <h3 data-testid="footerMenuItemTitle#2"
+                                    style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;margin-bottom:12px;">
+                                    Tentang PRG007</h3>
+                                <div style="flex-direction:column;display:flex;">
+                                    <a data-testid="footerMenu#2SubMenu#0" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Tentang
+                                        Kami</a>
+                                    <a data-testid="footerMenu#2SubMenu#1" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Link
+                                        Alternatif</a>
+                                </div>
+                            </li>
+                            <li data-testid="footerMenuItem#3"
+                                style="margin-right:0px;margin-left:40px;list-style-type:none;">
+                                <h3 data-testid="footerMenuItemTitle#3"
+                                    style="color:#f0f0f0;font-size:16px;line-height:24px;letter-spacing:0.16px;font-weight:800;margin-bottom:12px;">
+                                    Bantuan & Lainnya</h3>
+                                <div style="flex-direction:column;display:flex;">
+                                    <a data-testid="footerMenu#3SubMenu#0" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Info
+                                        RTP Live</a>
+                                    <a data-testid="footerMenu#3SubMenu#1" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Syarat
+                                        & Ketentuan</a>
+                                    <a data-testid="footerMenu#3SubMenu#2" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Kebijakan
+                                        Privasi</a>
+                                    <a data-testid="footerMenu#3SubMenu#3" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Hubungi
+                                        Kami (24/7)</a>
+                                    <a data-testid="footerMenu#3SubMenu#4" data-sentry-element="Link"
+                                        data-sentry-component="TextLink" data-sentry-source-file="TextLink.tsx"
+                                        href="https://www.associazionemargherita.org/index.php/il-giardino-delle-perle/"
+                                        style="outline:rgba(0, 0, 0, 0) solid 2px;outline-offset:2px;text-decoration-thickness:from-font;text-decoration-line:underline;color:#f0f0f0;font-size:12px;line-height:16px;letter-spacing:0.36px;font-weight:600;margin-bottom:8px;">Lisensi
+                                        Resmi</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
+                    window.SLOTGACOR = window.SLOTGACOR || {};
+                    SLOTGACOR.Context = SLOTGACOR.Context || {};
+                    (function () {
+                        function assign(firstSource, secondSource) {
+                            if (!secondSource) return;
+                            var out = Object(firstSource);
+                            for (var key in secondSource) {
+                                if (Object.prototype.hasOwnProperty.call(secondSource, key)) {
+                                    out[key] = secondSource[key];
+                                }
+                            }
+                            return out;
+                        }
+                        SLOTGACOR.Context.feature = assign(SLOTGACOR.Context.feature ? SLOTGACOR.Context.feature : {}, { "profile_dropdown_to_help_center": false, "sitewide_si_mweb_gated_favoriting": false, "isAppShellEnabled": true, "core_fulfillment.product_level_readiness_states": false, "design_systems.buybox_performance_web_components": false, "seller_platform_web.buyer_inquiry": false, "seller_platform_web.seller_local_time": false, "seller_platform_web.item_detail_overlay": false, "buyer_promise.issue_resolution.fee_avoidance_v2": false, "content_moderation.convo_safety.structured_convos": false, "risk_experience.buyer_email_verification": false });
+                        SLOTGACOR.Context.data = assign(SLOTGACOR.Context.data ? SLOTGACOR.Context.data : {}, { "is_mobile": false, "should_auto_redirect": false, "locale_settings": { "language": { "code": "en-US", "id": 0, "name": "English (US)", "translation": "English (US)", "is_detected": false, "is_default": true }, "currency": { "currency_id": 360, "code": "IDR", "name": "Indonesian Rupiah", "number_precision": 0, "symbol": "Rp", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true, "is_synthetic": true, "is_detected": false, "is_default": false, "append_currency_symbol": false }, "region": { "code": "ID", "country_id": 121, "name": "Indonesia", "translation": "Indonesia", "is_detected": false, "is_default": false, "is_EU_region": false }, "subdir_code": "" }, "neu_api_specs_sample_rate": null, "FB_GRAPHQL_VERSION": "v2.10", "page_guid": "ffbde3696ef.69632e5014d83cdc8fa2.00", "primary_event_name": "view_listing", "request_uuid": "EunhLnzL4sAYJypZdeOPahA2o_53", "user_is_test_account": false, "user_id": null, "css_variant": "sasquatch", "runtime_analysis": false, "collage_shadow_dom_css_url": "https://iscosafricashipping.org/contacts/ac/sasquatch/css/collage/shadow.b60eba69b0e074.css", "fix_domready": true, "auto_yield": true, "vite_public_path": "https://iscosafricashipping.org/contacts/ac/alphaVite/js/en-US/", "guest_uaid": ["uj0nemGYfZm0u5UhoRQWjT5qMRzf", "uj0nemGYfZm0u5UhoRQWjT5qMRzf"], "is_app_shell": true, "csrf_nonce": "3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0", "uaid_nonce": "3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4", "clientlogger": { "is_enabled": true, "endpoint": "/clientlog", "logs_per_page": 6, "id": "EunhLnzL4sAYJypZdeOPahA2o_53", "digest": "e45a20331c4c369cb55b4c17b23900bdd1979e0f", "enabled_features": ["info", "warn", "error", "basic", "uncaught"] }, "01125905a4e5ddf2_appshell_fallback": "recs-impression", "3c65557fa67e42dc_appshell_fallback": "bf47527aa0b4cf042", "c5420ec98ed7db34_appshell_fallback": "b58bc9bdcc28e8c2a", "imp_listener_sources": ["ads", "search", "recs", "nonlisting"], "impact_tracker_should_prompt_signin": false, "impact_tracker_should_direct_open": false, "shop_favorites_see_all_link": "See all", "shop_favorites_search_header": "Shops you follow", "is_mobile_shop_search": false, "show_simplified_mobile_header": false, "is_eligible_for_ship_to_setting_in_global_header": false, "remove_catnav_for_bots": false, "in_cart_count": 0, "page_type": "view_listing", "is_desktop_mini_favorites_operational_enabled": false, "clickable_nav": true, "has_dropdown": true, "add_vintage_node": false, "images_in_l2": false, "recs": [], "mweb_full_screen_search_dropdown": false, "relocate_cat_nav": false, "zero_pane_recent_searches": [], "is_eligible_to_fetch_category_suggestions": false, "category_suggestions_in_autosuggest_variant": null, "is_eligible_for_contentful_title_on_trending_searches": true, "is_eligible_for_always_show_shop_search": true, "is_eligible_for_search_bar_improvements": false, "is_eligible_for_refinement_pills_in_autosuggest": true, "mott_version": "761dfd2", "catnav_show_sales": false, "catnav_gift_guide": "off", "gifting_catnav_flyout_js": false, "should_show_registry_on_nav": false, "should_use_gifting_taxos_in_nav_flyout": false, "impact_message": { "footer_renewable_impact": { "impact_name": "footer_renewable_impact", "impact_themes": ["sustainability"], "impact_audiences": ["buyers"] }, "lp_impact_narrative_banner_carbon": { "impact_name": "lp_impact_narrative_banner_carbon", "impact_themes": ["carbon"], "impact_audiences": ["buyers"] } }, "airgap_url": "https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js", "airgap_bundle": "control_bundle", "dual_write_enabled": true, "google_tag_manager_async_enabled": false, "dynamic_privacy_settings_ui_enabled": false, "forced_data_regimes": "", "has_forced_data_regimes": false, "all_purposes": ["Advertising", "Functional"], "all_regimes": ["us-gpc", "consent-prompt"], "default_consent_expiry": 518400, "disable_advertising_regimes": [], "seller_is_viewing_own_listing": false, "listingId": 4302118744, "listing_price": 22.5, "shopId": 25947065, "shop_id": 25947065, "shop_name": "SLOTGACOR", "custom_orders_listings2": true, "is_listing_preview": false, "checkout_decorator": "", "was_landing_from_external_referrer": false, "should_collapse_neighbors": false, "should_open_single_content_toggle": false, "is_logged_in": false, "referring_listing_id": 4302118744, "address_formats": { "0": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "ZZ" }, "55": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "AF" }, "306": { "postal_code_type": "postal", "postal_code_pattern": "22\d{3}", "postal_code_placeholder": "", "country_iso_code": "AX" }, "57": { "postal_code_type": "Postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "AL" }, "95": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "DZ" }, "250": { "postal_code_type": "zip", "postal_code_pattern": "(96799)(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "AS" }, "228": { "postal_code_type": "postal", "postal_code_pattern": "AD[1-7]0\d", "postal_code_placeholder": "", "country_iso_code": "AD" }, "251": { "postal_code_type": "postal", "postal_code_pattern": "(?:AI-)?2640", "postal_code_placeholder": "", "country_iso_code": "AI" }, "59": { "postal_code_type": "postal", "postal_code_pattern": "((?:[A-HJ-NP-Z])?\d{4})([A-Z]{3})?", "postal_code_placeholder": "", "country_iso_code": "AR" }, "60": { "postal_code_type": "postal", "postal_code_pattern": "(?:37)?\d{4}", "postal_code_placeholder": "", "country_iso_code": "AM" }, "61": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "3393", "country_iso_code": "AU" }, "62": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "AT" }, "63": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "AZ" }, "232": { "postal_code_type": "postal", "postal_code_pattern": "(?:^|\b)(?:1[0-2]|[1-9])\d{2}(?:$|\b)", "postal_code_placeholder": "", "country_iso_code": "BH" }, "68": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "BD" }, "237": { "postal_code_type": "Postal", "postal_code_pattern": "BB\d{5}", "postal_code_placeholder": "", "country_iso_code": "BB" }, "71": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "BY" }, "65": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "BE" }, "225": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?[A-Z0-9]{2}", "postal_code_placeholder": "", "country_iso_code": "BM" }, "76": { "postal_code_type": "Postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "BT" }, "70": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "BA" }, "74": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}-?\d{3}", "postal_code_placeholder": "", "country_iso_code": "BR" }, "255": { "postal_code_type": "postal", "postal_code_pattern": "BBND 1ZZ", "postal_code_placeholder": "", "country_iso_code": "IO" }, "231": { "postal_code_type": "postal", "postal_code_pattern": "VG\d{4}", "postal_code_placeholder": "", "country_iso_code": "VG" }, "75": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\d{4}", "postal_code_placeholder": "", "country_iso_code": "BN" }, "69": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "BG" }, "135": { "postal_code_type": "postal", "postal_code_pattern": "\d{5,6}", "postal_code_placeholder": "", "country_iso_code": "KH" }, "79": { "postal_code_type": "postal", "postal_code_pattern": "[ABCEGHJKLMNPRSTVXY]\d[ABCEGHJ-NPRSTV-Z] ?\d[ABCEGHJ-NPRSTV-Z]\d", "postal_code_placeholder": "A1A 1A1", "country_iso_code": "CA" }, "222": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "CV" }, "247": { "postal_code_type": "postal", "postal_code_pattern": "KY\d-\d{4}", "postal_code_placeholder": "", "country_iso_code": "KY" }, "81": { "postal_code_type": "postal", "postal_code_pattern": "\d{7}", "postal_code_placeholder": "", "country_iso_code": "CL" }, "82": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "CN" }, "257": { "postal_code_type": "postal", "postal_code_pattern": "6798", "postal_code_placeholder": "", "country_iso_code": "CX" }, "258": { "postal_code_type": "postal", "postal_code_pattern": "6799", "postal_code_placeholder": "", "country_iso_code": "CC" }, "86": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "CO" }, "87": { "postal_code_type": "postal", "postal_code_pattern": "\d{4,5}|\d{3}-\d{4}", "postal_code_placeholder": "", "country_iso_code": "CR" }, "118": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "HR" }, "88": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "CU" }, "89": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "CY" }, "90": { "postal_code_type": "postal", "postal_code_pattern": "\d{3} ?\d{2}", "postal_code_placeholder": "", "country_iso_code": "CZ" }, "93": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "DK" }, "94": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "DO" }, "96": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "EC" }, "97": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "EG" }, "187": { "postal_code_type": "postal", "postal_code_pattern": "CP [1-3][1-7][0-2]\d", "postal_code_placeholder": "CP 1101", "country_iso_code": "SV" }, "100": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "EE" }, "101": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "ET" }, "262": { "postal_code_type": "postal", "postal_code_pattern": "FIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "FK" }, "241": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "FO" }, "102": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "FI" }, "103": { "postal_code_type": "postal", "postal_code_pattern": "\d{2} ?\d{3}", "postal_code_placeholder": "75000", "country_iso_code": "FR" }, "115": { "postal_code_type": "postal", "postal_code_pattern": "9[78]3\d{2}", "postal_code_placeholder": "", "country_iso_code": "GF" }, "263": { "postal_code_type": "postal", "postal_code_pattern": "987\d{2}", "postal_code_placeholder": "", "country_iso_code": "PF" }, "106": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "GE" }, "91": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "80331", "country_iso_code": "DE" }, "226": { "postal_code_type": "postal", "postal_code_pattern": "GX11 1AA", "postal_code_placeholder": "", "country_iso_code": "GI" }, "112": { "postal_code_type": "postal", "postal_code_pattern": "\d{3} ?\d{2}", "postal_code_placeholder": "104 31", "country_iso_code": "GR" }, "113": { "postal_code_type": "postal", "postal_code_pattern": "39\d{2}", "postal_code_placeholder": "", "country_iso_code": "GL" }, "265": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\d{2}", "postal_code_placeholder": "", "country_iso_code": "GP" }, "266": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:[12]\d|3[12]))(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "GU" }, "114": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "GT" }, "305": { "postal_code_type": "postal", "postal_code_pattern": "GY\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "GG" }, "108": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "GN" }, "110": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "GW" }, "119": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "HT" }, "267": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "HM" }, "268": { "postal_code_type": "postal", "postal_code_pattern": "00120", "postal_code_placeholder": "", "country_iso_code": "VA" }, "117": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "HN" }, "120": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "HU" }, "126": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "IS" }, "122": { "postal_code_type": "pin", "postal_code_pattern": "^[1-9][0-9]{5}$", "postal_code_placeholder": "110001", "country_iso_code": "IN" }, "121": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "ID" }, "124": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}-?\d{5}", "postal_code_placeholder": "", "country_iso_code": "IR" }, "125": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "IQ" }, "123": { "postal_code_type": "eircode", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "IE" }, "269": { "postal_code_type": "postal", "postal_code_pattern": "IM\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "IM" }, "127": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}(?:\d{2})?", "postal_code_placeholder": "", "country_iso_code": "IL" }, "128": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "50100", "country_iso_code": "IT" }, "131": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}-?\d{4}", "postal_code_placeholder": "100-0001", "country_iso_code": "JP" }, "307": { "postal_code_type": "postal", "postal_code_pattern": "JE\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "JE" }, "130": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "JO" }, "132": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "KZ" }, "133": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "KE" }, "137": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "KW" }, "134": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "KG" }, "138": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "LA" }, "146": { "postal_code_type": "postal", "postal_code_pattern": "LV-\d{4}", "postal_code_placeholder": "", "country_iso_code": "LV" }, "139": { "postal_code_type": "postal", "postal_code_pattern": "(?:\d{4})(?: ?(?:\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "LB" }, "143": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "LS" }, "140": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "LR" }, "272": { "postal_code_type": "postal", "postal_code_pattern": "948[5-9]|949[0-8]", "postal_code_placeholder": "", "country_iso_code": "LI" }, "144": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "LT" }, "145": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "LU" }, "151": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "MK" }, "149": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "MG" }, "159": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MY" }, "238": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MV" }, "227": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{3} ?\d{2,4}", "postal_code_placeholder": "", "country_iso_code": "MT" }, "274": { "postal_code_type": "zip", "postal_code_pattern": "(969[67]\d)(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MH" }, "275": { "postal_code_type": "postal", "postal_code_pattern": "9[78]2\d{2}", "postal_code_placeholder": "", "country_iso_code": "MQ" }, "239": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}(?:\d{2}|[A-Z]{2}\d{3})", "postal_code_placeholder": "", "country_iso_code": "MU" }, "276": { "postal_code_type": "postal", "postal_code_pattern": "976\d{2}", "postal_code_placeholder": "", "country_iso_code": "YT" }, "150": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MX" }, "277": { "postal_code_type": "zip", "postal_code_pattern": "(9694[1-4])(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "FM" }, "148": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "MD" }, "278": { "postal_code_type": "postal", "postal_code_pattern": "980\d{2}", "postal_code_placeholder": "", "country_iso_code": "MC" }, "154": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MN" }, "155": { "postal_code_type": "postal", "postal_code_pattern": "8\d{4}", "postal_code_placeholder": "", "country_iso_code": "ME" }, "147": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MA" }, "156": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "MZ" }, "153": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "MM" }, "160": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "NA" }, "166": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "NP" }, "233": { "postal_code_type": "postal", "postal_code_pattern": "988\d{2}", "postal_code_placeholder": "", "country_iso_code": "NC" }, "167": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "3974", "country_iso_code": "NZ" }, "163": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "NI" }, "161": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "NE" }, "162": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "NG" }, "282": { "postal_code_type": "postal", "postal_code_pattern": "2899", "postal_code_placeholder": "", "country_iso_code": "NF" }, "283": { "postal_code_type": "zip", "postal_code_pattern": "(9695[012])(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MP" }, "176": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "KP" }, "165": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "NO" }, "168": { "postal_code_type": "postal", "postal_code_pattern": "(?:PC )?\d{3}", "postal_code_placeholder": "", "country_iso_code": "OM" }, "169": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "PK" }, "284": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:39|40))(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PW" }, "173": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}", "postal_code_placeholder": "", "country_iso_code": "PG" }, "178": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "PY" }, "171": { "postal_code_type": "Postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "PE" }, "172": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "PH" }, "174": { "postal_code_type": "postal", "postal_code_pattern": "\d{2}-\d{3}", "postal_code_placeholder": "10-345", "country_iso_code": "PL" }, "177": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}-\d{3}", "postal_code_placeholder": "1000-205", "country_iso_code": "PT" }, "175": { "postal_code_type": "zip", "postal_code_pattern": "(00[679]\d{2})(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PR" }, "304": { "postal_code_type": "postal", "postal_code_pattern": "9[78]4\d{2}", "postal_code_placeholder": "", "country_iso_code": "RE" }, "180": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "RO" }, "181": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "101000", "country_iso_code": "RU" }, "308": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\d{2}", "postal_code_placeholder": "", "country_iso_code": "BL" }, "286": { "postal_code_type": "postal", "postal_code_pattern": "(?:ASCN|STHL) 1ZZ", "postal_code_placeholder": "", "country_iso_code": "SH" }, "288": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\d{2}", "postal_code_placeholder": "", "country_iso_code": "MF" }, "289": { "postal_code_type": "postal", "postal_code_pattern": "9[78]5\d{2}", "postal_code_placeholder": "", "country_iso_code": "PM" }, "249": { "postal_code_type": "Postal", "postal_code_pattern": "VC\d{4}", "postal_code_placeholder": "", "country_iso_code": "VC" }, "291": { "postal_code_type": "postal", "postal_code_pattern": "4789\d", "postal_code_placeholder": "", "country_iso_code": "SM" }, "183": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "SA" }, "185": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "SN" }, "189": { "postal_code_type": "postal", "postal_code_pattern": "\d{5,6}", "postal_code_placeholder": "", "country_iso_code": "RS" }, "220": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "SG" }, "191": { "postal_code_type": "postal", "postal_code_pattern": "\d{3} ?\d{2}", "postal_code_placeholder": "", "country_iso_code": "SK" }, "192": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "SI" }, "188": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\d{5}", "postal_code_placeholder": "", "country_iso_code": "SO" }, "215": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "ZA" }, "294": { "postal_code_type": "postal", "postal_code_pattern": "SIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "GS" }, "136": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "KR" }, "99": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "28013", "country_iso_code": "ES" }, "142": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "LK" }, "184": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "SD" }, "295": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "SJ" }, "194": { "postal_code_type": "postal", "postal_code_pattern": "[HLMS]\d{3}", "postal_code_placeholder": "", "country_iso_code": "SZ" }, "193": { "postal_code_type": "postal", "postal_code_pattern": "^\d{5}$", "postal_code_placeholder": "111 22", "country_iso_code": "SE" }, "80": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "CH" }, "204": { "postal_code_type": "postal", "postal_code_pattern": "\d{3}(?:\d{2,3})?", "postal_code_placeholder": "", "country_iso_code": "TW" }, "199": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "TJ" }, "205": { "postal_code_type": "postal", "postal_code_pattern": "\d{4,5}", "postal_code_placeholder": "", "country_iso_code": "TZ" }, "198": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "TH" }, "164": { "postal_code_type": "postal", "postal_code_pattern": "[1-9]\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])", "postal_code_placeholder": "1105 AW", "country_iso_code": "NL" }, "202": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "TN" }, "203": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "TR" }, "200": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "TM" }, "299": { "postal_code_type": "postal", "postal_code_pattern": "TKCA 1ZZ", "postal_code_placeholder": "", "country_iso_code": "TC" }, "207": { "postal_code_type": "postal", "postal_code_pattern": "^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$", "postal_code_placeholder": "", "country_iso_code": "UA" }, "105": { "postal_code_type": "postal", "postal_code_pattern": "^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\d{1,4})$", "postal_code_placeholder": "NW1 6XE", "country_iso_code": "GB" }, "209": { "postal_code_type": "zip", "postal_code_pattern": "^\d{5}(?:-\d{4})?$", "postal_code_placeholder": "12345", "country_iso_code": "US" }, "302": { "postal_code_type": "zip", "postal_code_pattern": "96898", "postal_code_placeholder": "", "country_iso_code": "UM" }, "208": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "UY" }, "248": { "postal_code_type": "zip", "postal_code_pattern": "(008(?:(?:[0-4]\d)|(?:5[01])))(?:[ \-](\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "VI" }, "210": { "postal_code_type": "postal", "postal_code_pattern": "\d{6}", "postal_code_placeholder": "", "country_iso_code": "UZ" }, "211": { "postal_code_type": "postal", "postal_code_pattern": "\d{4}", "postal_code_placeholder": "", "country_iso_code": "VE" }, "212": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}\d?", "postal_code_placeholder": "", "country_iso_code": "VN" }, "224": { "postal_code_type": "postal", "postal_code_pattern": "986\d{2}", "postal_code_placeholder": "", "country_iso_code": "WF" }, "213": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "EH" }, "217": { "postal_code_type": "postal", "postal_code_pattern": "\d{5}", "postal_code_placeholder": "", "country_iso_code": "ZM" } }, "ship_to_preference_capabilities": { "209": { "postal_code": { "is_assignable": true, "is_required": true } }, "79": { "postal_code": { "is_assignable": true, "is_required": true } }, "122": { "postal_code": { "is_assignable": true, "is_required": true } }, "61": { "postal_code": { "is_assignable": true, "is_required": true } }, "105": { "postal_code": { "is_assignable": true, "is_required": true } } }, "category_id": 68887416, "admin_tools_page_data": [], "currency_data": { "currency_id": 826, "code": "GBP", "name": "British Pound", "number_precision": 2, "symbol": "u00a3", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true }, "machine_translation/listings_click_to_translate": true, "ads.prolist/log_clicks_and_impressions": false, "mfg/dovetail": true, "mfg/buyer_facing_dovetail": true, "searchx/4q18/dwell_time_as_backend_event": false, "is_regulatory_buyer_disclosure_enabled": true, "is_convos_condensed_disclosure_enabled": false, "machine_translation": { "mode": "disabled", "listing_id": 4302118744, "to_lang_code": "en-US", "from_lang_code": "en-US", "translated": null, "untranslated": null, "category_tags": null }, "listing_fee": 20, "presented_listing_fee": "$0.20 USD", "listing_period_months": 4, "apple_pay_api_version_number": 12, "render_is_gift_section": true, "coupons_in_buy_box_is_enabled": false, "is_eligible_web_components": false, "should_show_atc_from_listing_cards": true, "should_show_atc_from_listing_cards_mweb": false, "added_to_cart_text": "Added to cart!", "speculation_rules_prefetch": false, "speculation_rules_prefetch_from_search": false, "prefetch_event_cache_key": "", "should_show_sidebar_cart_post_atc_recs": false, "is_eligible_for_trust_suite_section": false, "is_gift_guide_flyout_enabled": false, "should_hide_sub_nav": true, "should_show_breadcrumbs": true, "listing_image_url": "", "eligible_for_mini_collections_and_ignore_menu": false, "image_ids_by_listing_variation_ids": [], "should_show_scrollable_thumbnails": true, "should_show_video": true, "shouldShowThumbnails": true, "carousel_height_percentage_relative_to_width": [80, 80, 80, 80, 80, 80, 80, 80, 80, 80], "is_mobile_experience": false, "is_users_own_listing": false, "listing_sale_price_is_gamed": false, "lp_toffers_v2_true_sale_enabled": false, "sale_ending_soon_countdown": true, "should_show_histogram_panel": false, "anchor_shop_name_to_seller_cred": false, "shop_reviews_count": 62595, "neu_buy_box_type": "offerings", "listing_id": 4302118744, "sitemap_ix_play": "https://orderronline.shop/izin/pinjam/templatenya/mas-e", "is_eligible_for_klarna_osm": false, "is_eligible_for_variations_update": true, "can_listing_have_coupon_applied": false, "quantity_submodule_enabled": true, "is_multiple_questions_enabled_buyer": true, "personalization_is_required": true, "personalization_field_count": 1, "how_its_made_label_type": "seller_designed", "product_details_content_toggle_selector": "[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']", "should_show_description_content_toggle": true, "use_shipping_variant_view": true, "shipping_section_default_open": true, "shipping_and_returns_is_eligible_for_sticky_buy_box": true, "estimated_shipping_is_eligible_for_sticky_buy_box": true, "is_eligible_for_shipping_and_returns_cleanup": true, "is_postal_code_empty_on_initial_load": true, "invalid_postal_codes": { "209": ["000", "001", "002", "003", "004", "213", "269", "343", "345", "348", "353", "419", "428", "429", "517", "518", "519", "529", "533", "536", "552", "568", "569", "578", "579", "589", "621", "632", "642", "643", "659", "663", "682", "694", "695", "696", "697", "698", "699", "702", "709", "715", "732", "742", "771", "817", "818", "819", "839", "848", "849", "854", "858", "861", "862", "866", "867", "868", "869", "872", "886", "887", "888", "892", "896", "899", "909", "929", "987"] }, "is_eligible_for_policies_in_overlay": true, "active_tab": "same_listing_reviews", "allow_reviews_debug": false, "using_mweb_tabs": false, "load_tabbed_layout_js": true, "should_show_helpful_count": true, "should_default_chronological_sort": false, "should_include_subratings": true, "current_page": 1, "is_deep_dive": false, "has_appreciation_photos": true, "eligible_for_review_photo_filter_and_sort": true, "is_new_deep_dive": false, "photos_per_page": 4, "review_categorical_tags_enabled": true, "review_hide_sort_by_prefix": true, "mweb_can_scroll_to_seller_cred_module": false, "is_eligible_for_showing_more_items_on_explore_more": false, "structured_policies_messages": { "module_name": "Shop policies", "last_updated_on": "Last updated on", "publish": "Publish Shop Policies", "policies_save": "Save policies", "policies_edit": "Edit policies", "cancel": "Cancel", "revert": "Use previous policies", "edit": "Edit", "loading": "Loading", "preview_banner_kicker": "Policies preview", "not_existing_policies_preview_banner_header": "Review and customize these policies so they work for you", "preview_banner_body": "You can publish these to your shop or edit them if you need to make changes", "preview_publish_confirm": "By clicking Publish, you'll post your Shop Policies and agree to comply with them.", "revert_confirm": "Are you sure you want to revert?", "leave_page_warning": "You are currently editing shop policies", "private_receipt_info_title": "Private receipt info", "private_receipt_info_body": "We have removed the 'Private Receipt Info' section of your policies page. You don't need to populate this section for the purposes of complying with international consumer protection laws anymore because this new Policies feature will automatically display the relevant content of your shop policies within the buyer receipt email instead.", "private_receipt_info_link": "See this FAQ for more information", "structured_banner_title": "Switch to simple shop policies", "structured_banner_title_v2": "Set up simple shop policies", "structured_banner_body": "We'll give you a quick template to create your shop policies in seconds.", "structured_banner_button": "Try it now", "new_simplified_policies": "Your new, simplified policies", "new_policies_banner_description_1": "Buyers prefer policies that are short, clear and address their key concerns, so we've designed them that way.", "new_policies_banner_description_2": "Review and customize these policies so they work for you. We've saved your previous policies, so you can always switch back.", "new_policies_banner_description_3": "We've saved your previous policies, so you can always switch back.", "new_policies_banner_learn_more": "Learn more", "publish_policies_success": "Your new policies have been published!", "publish_policies_error": "There was an error publishing your policies. Please try again.", "policies_failed_to_load": "Shop policies failed to load", "policies_try_again": "Try again", "policies_saving": "Saving...", "policies_publishing": "Publishing...", "listing_preview_shipping": "This section will show shipping or download information once you publish your listing.", "craft_shipping_section_title": "Shipping & policies", "craft_payments_section_title": "Payments", "craft_refunds_section_title": "Returns & exchanges", "craft_terms_section_title": "Terms & conditions", "craft_more_details_accordion_label": "+ See more...", "listing_returns_and_exchanges": "See item details for return and exchange eligibility.", "no_policies": "Looks like this shop doesn't have any custom policies. Have questions?", "message_the_seller": "Message the seller", "shipping_section_title": "Shipping", "payments_section_title": "Payments", "refunds_section_title": "Returns & exchanges", "digital_section_title": "Downloads", "terms_section_title": "Terms & conditions", "more_details_accordion_label": "See more...", "seller_details_section_title": "More information" }, "shop_policy_selector": "[data-content-toggle-uid=shop_policies]", "load_user_faves_option": true, "update_many_faves_option": true, "is_async_only_faves_option": false, "guest_favorites_enabled": true, "collection_count": 0, "favorites_key": "", "use_clearer_privacy_description": true, "conditional_sale_interstitial": true, "google_client_id": "296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com", "show_one_tap_modal": false, "is_google_one_tap_cart_page": false });
+                    })();
+                </script>
+                <section
+                    style="padding-left:16px;padding-right:16px;background-color:#121212;align-items:center;display:flex;">
+                    <div style="padding-left:16px;padding-right:16px;margin-left: auto;margin-right: auto;width: 100%;
+max-width: 1248px;
+box-sizing: border-box;">
+                        <div
+                            style="padding-top:16px;padding-bottom:16px;border-top-color:#444444;border-top-width:1px;justify-content:space-between;align-items:center;width: 100%;display:flex;">
+                            <p data-testid="footerTrademark"
+                                style="color:#ffffff;font-weight:500;font-size:12px;line-height:16px;letter-spacing:0.36px;">
+                                ©
+                                <!-- -->
+                                <!-- -->
+                                <!-- -->
+                            </p>
+                            <div style="gap:8px;align-items:center;display:flex;"><a
+                                    href="https://www.facebook.com/prg007" target="__blank"
+                                    data-testid="footerSocial#0"><img alt="Facebook" loading="lazy" width="24"
+                                        height="24" decoding="async" data-nimg="1" style="color:transparent"
+                                        src="https://static.gramedia.net/_next/static/media/facebook_dark.e85a7e6b.svg" /></a><a
+                                    href="https://x.com/prg007" target="__blank" data-testid="footerSocial#1"><img
+                                        alt="X" loading="lazy" width="24" height="24" decoding="async" data-nimg="1"
+                                        style="color:transparent"
+                                        src="https://static.gramedia.net/_next/static/media/twitterx_dark.f367654e.svg" /></a><a
+                                    href="https://www.instagram.com/prg007/" target="__blank"
+                                    data-testid="footerSocial#2"><img alt="Instagram" loading="lazy" width="24"
+                                        height="24" decoding="async" data-nimg="1" style="color:transparent"
+                                        src="https://static.gramedia.net/_next/static/media/instagram_dark.318a5108.svg" /></a><a
+                                    href="https://www.tiktok.com/@prg007" target="__blank"
+                                    data-testid="footerSocial#3"><img alt="Tiktok" loading="lazy" width="24" height="24"
+                                        decoding="async" data-nimg="1" style="color:transparent"
+                                        src="https://static.gramedia.net/_next/static/media/tiktok_dark.02b386db.svg" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </footer>
+            <div style="margin-left: auto;margin-right: auto;z-index:10;right:0px;left:0px;bottom:0px;position:fixed;">
+            </div>
+            <div role="region" aria-label="Notifications (F8)" tabindex="-1" style="pointer-events:none">
+                <ol tabindex="-1" data-sentry-element="SnackbarViewport" data-sentry-source-file="SnackbarContainer.tsx"
+                    style="flex-direction:column;max-width:100%;top:88px;bottom: auto;align-items:center;width: 100%;max-height:911px;display:flex;margin-left: auto;margin-right: auto;z-index:60;position:fixed;">
+                </ol>
+            </div>
+        </div>
+    </div>
+    <next-route-announcer>
+        <p aria-live="assertive" role="alert"
+            style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;clip:rect(0px, 0px, 0px, 0px);height:1px;margin:-1px;overflow:hidden;padding:0px;position:absolute;top:0px;width: 1px;white-space:nowrap;overflow-wrap:normal;">
+            PRG007 : Jawara Link Slot Gacor Anti Nawala Terbaru di Asia</p>
+    </next-route-announcer><iframe src="https://gramedia.api.useinsider.com/worker-new.html"
+        style="display: none;"></iframe>
+    <script>
+        document.addEventListener('contextmenu', function (e) {
+            e.preventDefault();
+        });
+
+        document.addEventListener('selectstart', function (e) {
+            e.preventDefault();
+        });
+
+        document.addEventListener('dragstart', function (e) {
+            e.preventDefault();
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            document.body.style.userSelect = 'none';
+            document.body.style.webkitUserSelect = 'none';
+            document.body.style.msUserSelect = 'none';
+            document.body.style.webkitTouchCallout = 'none';
+
+            var images = document.getElementsByTagName('img');
+            for (var i = 0; i < images.length; i++) {
+                images[i].addEventListener('mousedown', function (e) {
+                    e.preventDefault();
+                });
+            }
+        });
+
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'F12' || e.keyCode === 123) {
+                e.preventDefault();
+                return false;
+            }
+
+            if (e.ctrlKey || e.metaKey) {
+                var key = e.key.toLowerCase();
+
+                if (key === 'u' || key === 's' || key === 'c' || key === 'p') {
+                    e.preventDefault();
+                    return false;
+                }
+            }
+
+            if ((e.ctrlKey || e.metaKey) && e.shiftKey) {
+                var key = e.key.toLowerCase();
+                if (key === 'i' || key === 'j' || key === 'c') {
+                    e.preventDefault();
+                    return false;
+                }
+            }
+        });
+    </script>
+
+
+</body></html>
